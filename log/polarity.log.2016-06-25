@@ -1,0 +1,1845 @@
+[2016-06-25 15:45:22][INFO ](LogisticRegressionMahout.java:94) - NLP Loading ....
+[2016-06-25 15:45:23][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 15:45:26][INFO ](LogisticRegressionMahout.java:96) - NLP Loading done
+[2016-06-25 15:45:26][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 0/
+[2016-06-25 15:45:56][INFO ](LogisticRegressionMahout.java:94) - NLP Loading ....
+[2016-06-25 15:45:57][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 15:46:01][INFO ](LogisticRegressionMahout.java:96) - NLP Loading done
+[2016-06-25 15:46:01][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 0/
+[2016-06-25 15:46:01][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 1000/
+[2016-06-25 15:46:01][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 2000/
+[2016-06-25 15:46:02][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 3000/
+[2016-06-25 15:46:02][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 4000/
+[2016-06-25 15:46:03][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 5000/
+[2016-06-25 15:46:03][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 6000/
+[2016-06-25 15:46:03][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 7000/
+[2016-06-25 15:46:04][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 8000/
+[2016-06-25 15:46:04][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 9000/
+[2016-06-25 15:46:04][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 10000/
+[2016-06-25 15:46:05][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 11000/
+[2016-06-25 15:46:05][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 12000/
+[2016-06-25 15:46:06][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 13000/
+[2016-06-25 15:46:06][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 14000/
+[2016-06-25 15:46:06][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 15000/
+[2016-06-25 15:46:07][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 16000/
+[2016-06-25 15:46:07][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 17000/
+[2016-06-25 15:46:07][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 18000/
+[2016-06-25 15:46:08][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 19000/
+[2016-06-25 15:46:08][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 20000/
+[2016-06-25 15:46:08][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 21000/
+[2016-06-25 15:46:09][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 22000/
+[2016-06-25 15:46:09][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 23000/
+[2016-06-25 15:46:09][INFO ](LogisticRegressionMahout.java:144) - load training set: 0/
+[2016-06-25 15:46:10][INFO ](LogisticRegressionMahout.java:144) - load training set: 1000/
+[2016-06-25 15:46:10][INFO ](LogisticRegressionMahout.java:144) - load training set: 2000/
+[2016-06-25 15:46:11][INFO ](LogisticRegressionMahout.java:144) - load training set: 3000/
+[2016-06-25 15:46:11][INFO ](LogisticRegressionMahout.java:144) - load training set: 4000/
+[2016-06-25 15:46:11][INFO ](LogisticRegressionMahout.java:144) - load training set: 5000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 6000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 7000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 8000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 9000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 10000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 11000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 12000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 13000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 14000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 15000/
+[2016-06-25 15:46:12][INFO ](LogisticRegressionMahout.java:144) - load training set: 16000/
+[2016-06-25 15:46:13][INFO ](LogisticRegressionMahout.java:144) - load training set: 17000/
+[2016-06-25 15:46:13][INFO ](LogisticRegressionMahout.java:144) - load training set: 18000/
+[2016-06-25 15:46:13][INFO ](LogisticRegressionMahout.java:144) - load training set: 19000/
+[2016-06-25 15:46:13][INFO ](LogisticRegressionMahout.java:144) - load training set: 20000/
+[2016-06-25 15:46:14][INFO ](LogisticRegressionMahout.java:144) - load training set: 21000/
+[2016-06-25 15:46:14][INFO ](LogisticRegressionMahout.java:144) - load training set: 22000/
+[2016-06-25 15:46:14][INFO ](LogisticRegressionMahout.java:144) - load training set: 23000/
+[2016-06-25 15:46:14][INFO ](LogisticRegressionMahout.java:144) - load training set: 24000/
+[2016-06-25 15:46:14][INFO ](LogisticRegressionMahout.java:144) - load training set: 25000/
+[2016-06-25 15:46:15][INFO ](LogisticRegressionMahout.java:144) - load training set: 26000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 27000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 28000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 29000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 30000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 31000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 32000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 33000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 34000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 35000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 36000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 37000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 38000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 39000/
+[2016-06-25 15:46:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 40000/
+[2016-06-25 15:46:18][INFO ](LogisticRegressionMahout.java:144) - load training set: 41000/
+[2016-06-25 15:46:20][INFO ](LogisticRegressionMahout.java:144) - load training set: 42000/
+[2016-06-25 15:46:20][INFO ](LogisticRegressionMahout.java:144) - load training set: 43000/
+[2016-06-25 15:46:20][INFO ](LogisticRegressionMahout.java:144) - load training set: 44000/
+[2016-06-25 15:46:20][INFO ](LogisticRegressionMahout.java:144) - load training set: 45000/
+[2016-06-25 15:46:21][INFO ](LogisticRegressionMahout.java:144) - load training set: 46000/
+[2016-06-25 15:46:21][INFO ](LogisticRegressionMahout.java:144) - load training set: 47000/
+[2016-06-25 15:46:21][INFO ](LogisticRegressionMahout.java:144) - load training set: 48000/
+[2016-06-25 15:46:21][INFO ](LogisticRegressionMahout.java:144) - load training set: 49000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 50000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 51000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 52000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 53000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 54000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 55000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 56000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 57000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 58000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 59000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 60000/
+[2016-06-25 15:46:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 61000/
+[2016-06-25 15:46:23][INFO ](LogisticRegressionMahout.java:144) - load training set: 62000/
+[2016-06-25 15:46:23][INFO ](LogisticRegressionMahout.java:144) - load training set: 63000/
+[2016-06-25 15:46:23][INFO ](LogisticRegressionMahout.java:144) - load training set: 64000/
+[2016-06-25 15:46:23][INFO ](LogisticRegressionMahout.java:144) - load training set: 65000/
+[2016-06-25 15:46:23][INFO ](LogisticRegressionMahout.java:144) - load training set: 66000/
+[2016-06-25 15:46:23][INFO ](LogisticRegressionMahout.java:144) - load training set: 67000/
+[2016-06-25 15:46:23][INFO ](LogisticRegressionMahout.java:144) - load training set: 68000/
+[2016-06-25 15:46:23][INFO ](LogisticRegressionMahout.java:144) - load training set: 69000/
+[2016-06-25 15:46:24][INFO ](LogisticRegressionMahout.java:144) - load training set: 70000/
+[2016-06-25 15:46:24][INFO ](LogisticRegressionMahout.java:144) - load training set: 71000/
+[2016-06-25 15:46:24][INFO ](LogisticRegressionMahout.java:144) - load training set: 72000/
+[2016-06-25 15:46:24][INFO ](LogisticRegressionMahout.java:144) - load training set: 73000/
+[2016-06-25 15:46:25][INFO ](LogisticRegressionMahout.java:144) - load training set: 74000/
+[2016-06-25 15:46:25][INFO ](LogisticRegressionMahout.java:144) - load training set: 75000/
+[2016-06-25 15:46:25][INFO ](LogisticRegressionMahout.java:144) - load training set: 76000/
+[2016-06-25 15:46:25][INFO ](LogisticRegressionMahout.java:144) - load training set: 77000/
+[2016-06-25 15:46:25][INFO ](LogisticRegressionMahout.java:144) - load training set: 78000/
+[2016-06-25 15:46:25][INFO ](LogisticRegressionMahout.java:144) - load training set: 79000/
+[2016-06-25 15:46:26][INFO ](LogisticRegressionMahout.java:144) - load training set: 80000/
+[2016-06-25 15:46:26][INFO ](LogisticRegressionMahout.java:144) - load training set: 81000/
+[2016-06-25 15:46:26][INFO ](LogisticRegressionMahout.java:144) - load training set: 82000/
+[2016-06-25 15:46:26][INFO ](LogisticRegressionMahout.java:144) - load training set: 83000/
+[2016-06-25 15:46:26][INFO ](LogisticRegressionMahout.java:144) - load training set: 84000/
+[2016-06-25 15:48:50][INFO ](LogisticRegressionMahout.java:94) - NLP Loading ....
+[2016-06-25 15:48:50][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 15:48:54][INFO ](LogisticRegressionMahout.java:96) - NLP Loading done
+[2016-06-25 15:48:54][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 0/
+[2016-06-25 15:48:54][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 1000/
+[2016-06-25 15:48:55][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 2000/
+[2016-06-25 15:48:55][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 3000/
+[2016-06-25 15:48:55][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 4000/
+[2016-06-25 15:48:56][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 5000/
+[2016-06-25 15:48:56][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 6000/
+[2016-06-25 15:48:57][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 7000/
+[2016-06-25 15:48:57][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 8000/
+[2016-06-25 15:48:57][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 9000/
+[2016-06-25 15:48:58][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 10000/
+[2016-06-25 15:48:58][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 11000/
+[2016-06-25 15:48:58][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 12000/
+[2016-06-25 15:48:59][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 13000/
+[2016-06-25 15:48:59][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 14000/
+[2016-06-25 15:48:59][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 15000/
+[2016-06-25 15:49:00][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 16000/
+[2016-06-25 15:49:00][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 17000/
+[2016-06-25 15:49:00][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 18000/
+[2016-06-25 15:49:01][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 19000/
+[2016-06-25 15:49:01][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 20000/
+[2016-06-25 15:49:02][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 21000/
+[2016-06-25 15:49:02][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 22000/
+[2016-06-25 15:49:02][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 23000/
+[2016-06-25 15:49:02][INFO ](LogisticRegressionMahout.java:144) - load training set: 0/
+[2016-06-25 15:58:45][INFO ](LogisticRegressionMahout.java:94) - NLP Loading ....
+[2016-06-25 15:58:45][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 15:58:50][INFO ](LogisticRegressionMahout.java:96) - NLP Loading done
+[2016-06-25 15:58:50][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 0/
+[2016-06-25 15:59:40][INFO ](LogisticRegressionMahout.java:94) - NLP Loading ....
+[2016-06-25 15:59:40][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 15:59:44][INFO ](LogisticRegressionMahout.java:96) - NLP Loading done
+[2016-06-25 15:59:44][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 0/
+[2016-06-25 15:59:44][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 1000/
+[2016-06-25 15:59:45][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 2000/
+[2016-06-25 15:59:45][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 3000/
+[2016-06-25 15:59:46][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 4000/
+[2016-06-25 15:59:46][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 5000/
+[2016-06-25 15:59:46][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 6000/
+[2016-06-25 15:59:47][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 7000/
+[2016-06-25 15:59:47][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 8000/
+[2016-06-25 15:59:48][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 9000/
+[2016-06-25 15:59:48][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 10000/
+[2016-06-25 15:59:48][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 11000/
+[2016-06-25 15:59:49][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 12000/
+[2016-06-25 15:59:49][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 13000/
+[2016-06-25 15:59:49][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 14000/
+[2016-06-25 15:59:50][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 15000/
+[2016-06-25 15:59:50][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 16000/
+[2016-06-25 15:59:50][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 17000/
+[2016-06-25 15:59:51][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 18000/
+[2016-06-25 15:59:51][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 19000/
+[2016-06-25 15:59:51][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 20000/
+[2016-06-25 15:59:52][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 21000/
+[2016-06-25 15:59:52][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 22000/
+[2016-06-25 15:59:52][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 23000/
+[2016-06-25 15:59:52][INFO ](LogisticRegressionMahout.java:144) - load training set: 0/
+[2016-06-25 15:59:53][INFO ](LogisticRegressionMahout.java:144) - load training set: 1000/
+[2016-06-25 15:59:54][INFO ](LogisticRegressionMahout.java:144) - load training set: 2000/
+[2016-06-25 15:59:54][INFO ](LogisticRegressionMahout.java:144) - load training set: 3000/
+[2016-06-25 15:59:55][INFO ](LogisticRegressionMahout.java:144) - load training set: 4000/
+[2016-06-25 15:59:55][INFO ](LogisticRegressionMahout.java:144) - load training set: 5000/
+[2016-06-25 15:59:55][INFO ](LogisticRegressionMahout.java:144) - load training set: 6000/
+[2016-06-25 15:59:55][INFO ](LogisticRegressionMahout.java:144) - load training set: 7000/
+[2016-06-25 15:59:55][INFO ](LogisticRegressionMahout.java:144) - load training set: 8000/
+[2016-06-25 15:59:55][INFO ](LogisticRegressionMahout.java:144) - load training set: 9000/
+[2016-06-25 16:09:47][INFO ](LogisticRegressionMahout.java:94) - NLP Loading ....
+[2016-06-25 16:09:48][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 16:09:52][INFO ](LogisticRegressionMahout.java:96) - NLP Loading done
+[2016-06-25 16:09:52][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 0/
+[2016-06-25 16:09:52][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 1000/
+[2016-06-25 16:09:53][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 2000/
+[2016-06-25 16:09:53][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 3000/
+[2016-06-25 16:09:53][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 4000/
+[2016-06-25 16:09:54][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 5000/
+[2016-06-25 16:09:54][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 6000/
+[2016-06-25 16:09:55][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 7000/
+[2016-06-25 16:09:55][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 8000/
+[2016-06-25 16:09:55][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 9000/
+[2016-06-25 16:09:56][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 10000/
+[2016-06-25 16:09:56][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 11000/
+[2016-06-25 16:09:56][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 12000/
+[2016-06-25 16:09:57][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 13000/
+[2016-06-25 16:09:57][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 14000/
+[2016-06-25 16:09:58][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 15000/
+[2016-06-25 16:09:58][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 16000/
+[2016-06-25 16:09:58][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 17000/
+[2016-06-25 16:09:59][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 18000/
+[2016-06-25 16:09:59][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 19000/
+[2016-06-25 16:09:59][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 20000/
+[2016-06-25 16:10:00][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 21000/
+[2016-06-25 16:10:00][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 22000/
+[2016-06-25 16:10:00][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 23000/
+[2016-06-25 16:10:00][INFO ](LogisticRegressionMahout.java:144) - load training set: 0/
+[2016-06-25 16:10:01][INFO ](LogisticRegressionMahout.java:144) - load training set: 1000/
+[2016-06-25 16:10:02][INFO ](LogisticRegressionMahout.java:144) - load training set: 2000/
+[2016-06-25 16:10:02][INFO ](LogisticRegressionMahout.java:144) - load training set: 3000/
+[2016-06-25 16:10:03][INFO ](LogisticRegressionMahout.java:144) - load training set: 4000/
+[2016-06-25 16:10:03][INFO ](LogisticRegressionMahout.java:144) - load training set: 5000/
+[2016-06-25 16:10:03][INFO ](LogisticRegressionMahout.java:144) - load training set: 6000/
+[2016-06-25 16:10:03][INFO ](LogisticRegressionMahout.java:144) - load training set: 7000/
+[2016-06-25 16:10:03][INFO ](LogisticRegressionMahout.java:144) - load training set: 8000/
+[2016-06-25 16:10:03][INFO ](LogisticRegressionMahout.java:144) - load training set: 9000/
+[2016-06-25 16:10:03][INFO ](LogisticRegressionMahout.java:288) - training phase: 0
+[2016-06-25 16:10:57][INFO ](LogisticRegressionMahout.java:94) - NLP Loading ....
+[2016-06-25 16:10:57][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 16:11:01][INFO ](LogisticRegressionMahout.java:96) - NLP Loading done
+[2016-06-25 16:11:01][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 0/
+[2016-06-25 16:11:07][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 1000/
+[2016-06-25 16:11:07][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 2000/
+[2016-06-25 16:11:08][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 3000/
+[2016-06-25 16:11:08][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 4000/
+[2016-06-25 16:11:08][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 5000/
+[2016-06-25 16:11:09][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 6000/
+[2016-06-25 16:11:09][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 7000/
+[2016-06-25 16:11:10][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 8000/
+[2016-06-25 16:11:10][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 9000/
+[2016-06-25 16:11:11][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 10000/
+[2016-06-25 16:11:11][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 11000/
+[2016-06-25 16:11:11][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 12000/
+[2016-06-25 16:11:12][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 13000/
+[2016-06-25 16:11:12][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 14000/
+[2016-06-25 16:11:13][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 15000/
+[2016-06-25 16:11:13][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 16000/
+[2016-06-25 16:11:14][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 17000/
+[2016-06-25 16:11:14][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 18000/
+[2016-06-25 16:11:14][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 19000/
+[2016-06-25 16:11:15][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 20000/
+[2016-06-25 16:11:15][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 21000/
+[2016-06-25 16:11:16][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 22000/
+[2016-06-25 16:11:16][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 23000/
+[2016-06-25 16:11:16][INFO ](LogisticRegressionMahout.java:144) - load training set: 0/
+[2016-06-25 16:11:28][INFO ](LogisticRegressionMahout.java:144) - load training set: 1000/
+[2016-06-25 16:11:28][INFO ](LogisticRegressionMahout.java:144) - load training set: 2000/
+[2016-06-25 16:11:29][INFO ](LogisticRegressionMahout.java:144) - load training set: 3000/
+[2016-06-25 16:11:29][INFO ](LogisticRegressionMahout.java:144) - load training set: 4000/
+[2016-06-25 16:11:30][INFO ](LogisticRegressionMahout.java:144) - load training set: 5000/
+[2016-06-25 16:11:30][INFO ](LogisticRegressionMahout.java:144) - load training set: 6000/
+[2016-06-25 16:11:30][INFO ](LogisticRegressionMahout.java:144) - load training set: 7000/
+[2016-06-25 16:11:30][INFO ](LogisticRegressionMahout.java:144) - load training set: 8000/
+[2016-06-25 16:11:30][INFO ](LogisticRegressionMahout.java:144) - load training set: 9000/
+[2016-06-25 16:11:57][INFO ](LogisticRegressionMahout.java:288) - training phase: 0
+[2016-06-25 16:12:07][INFO ](LogisticRegressionMahout.java:94) - NLP Loading ....
+[2016-06-25 16:12:08][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 16:12:11][INFO ](LogisticRegressionMahout.java:96) - NLP Loading done
+[2016-06-25 16:12:11][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 0/
+[2016-06-25 16:12:12][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 1000/
+[2016-06-25 16:12:12][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 2000/
+[2016-06-25 16:12:12][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 3000/
+[2016-06-25 16:12:13][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 4000/
+[2016-06-25 16:12:13][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 5000/
+[2016-06-25 16:12:14][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 6000/
+[2016-06-25 16:12:14][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 7000/
+[2016-06-25 16:12:14][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 8000/
+[2016-06-25 16:12:15][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 9000/
+[2016-06-25 16:12:15][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 10000/
+[2016-06-25 16:12:15][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 11000/
+[2016-06-25 16:12:16][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 12000/
+[2016-06-25 16:12:16][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 13000/
+[2016-06-25 16:12:16][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 14000/
+[2016-06-25 16:12:17][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 15000/
+[2016-06-25 16:12:17][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 16000/
+[2016-06-25 16:12:18][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 17000/
+[2016-06-25 16:12:18][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 18000/
+[2016-06-25 16:12:18][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 19000/
+[2016-06-25 16:12:19][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 20000/
+[2016-06-25 16:12:19][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 21000/
+[2016-06-25 16:12:19][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 22000/
+[2016-06-25 16:12:20][INFO ](LogisticRegressionMahout.java:111) - word2vec model loading: 23000/
+[2016-06-25 16:12:20][INFO ](LogisticRegressionMahout.java:144) - load training set: 0/
+[2016-06-25 16:12:21][INFO ](LogisticRegressionMahout.java:144) - load training set: 1000/
+[2016-06-25 16:12:21][INFO ](LogisticRegressionMahout.java:144) - load training set: 2000/
+[2016-06-25 16:12:21][INFO ](LogisticRegressionMahout.java:144) - load training set: 3000/
+[2016-06-25 16:12:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 4000/
+[2016-06-25 16:12:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 5000/
+[2016-06-25 16:12:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 6000/
+[2016-06-25 16:12:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 7000/
+[2016-06-25 16:12:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 8000/
+[2016-06-25 16:12:22][INFO ](LogisticRegressionMahout.java:144) - load training set: 9000/
+[2016-06-25 16:12:23][INFO ](LogisticRegressionMahout.java:288) - training phase: 0
+[2016-06-25 16:12:28][INFO ](LogisticRegressionMahout.java:288) - training phase: 1
+[2016-06-25 16:12:32][INFO ](LogisticRegressionMahout.java:288) - training phase: 2
+[2016-06-25 16:12:36][INFO ](LogisticRegressionMahout.java:288) - training phase: 3
+[2016-06-25 16:12:40][INFO ](LogisticRegressionMahout.java:288) - training phase: 4
+[2016-06-25 16:12:45][INFO ](LogisticRegressionMahout.java:288) - training phase: 5
+[2016-06-25 16:12:49][INFO ](LogisticRegressionMahout.java:288) - training phase: 6
+[2016-06-25 16:12:53][INFO ](LogisticRegressionMahout.java:288) - training phase: 7
+[2016-06-25 16:12:58][INFO ](LogisticRegressionMahout.java:288) - training phase: 8
+[2016-06-25 16:13:02][INFO ](LogisticRegressionMahout.java:288) - training phase: 9
+[2016-06-25 16:32:51][INFO ](LogisticRegressionMahout.java:95) - NLP Loading ....
+[2016-06-25 16:32:52][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 16:33:12][INFO ](LogisticRegressionMahout.java:97) - NLP Loading done
+[2016-06-25 16:33:12][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 0/
+[2016-06-25 16:33:15][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 1000/
+[2016-06-25 16:33:16][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 2000/
+[2016-06-25 16:33:18][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 3000/
+[2016-06-25 16:33:19][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 4000/
+[2016-06-25 16:33:21][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 5000/
+[2016-06-25 16:33:22][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 6000/
+[2016-06-25 16:33:23][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 7000/
+[2016-06-25 16:33:25][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 8000/
+[2016-06-25 16:33:26][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 9000/
+[2016-06-25 16:33:28][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 10000/
+[2016-06-25 16:33:29][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 11000/
+[2016-06-25 16:33:30][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 12000/
+[2016-06-25 16:33:32][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 13000/
+[2016-06-25 16:33:33][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 14000/
+[2016-06-25 16:33:35][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 15000/
+[2016-06-25 16:33:36][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 16000/
+[2016-06-25 16:33:38][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 17000/
+[2016-06-25 16:33:40][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 18000/
+[2016-06-25 16:33:42][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 19000/
+[2016-06-25 16:33:43][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 20000/
+[2016-06-25 16:33:45][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 21000/
+[2016-06-25 16:33:47][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 22000/
+[2016-06-25 16:33:48][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 23000/
+[2016-06-25 16:33:48][INFO ](LogisticRegressionMahout.java:145) - load training set: 0/
+[2016-06-25 16:33:54][INFO ](LogisticRegressionMahout.java:145) - load training set: 1000/
+[2016-06-25 16:33:55][INFO ](LogisticRegressionMahout.java:145) - load training set: 2000/
+[2016-06-25 16:33:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 3000/
+[2016-06-25 16:34:00][INFO ](LogisticRegressionMahout.java:145) - load training set: 4000/
+[2016-06-25 16:34:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 5000/
+[2016-06-25 16:34:02][INFO ](LogisticRegressionMahout.java:145) - load training set: 6000/
+[2016-06-25 16:34:02][INFO ](LogisticRegressionMahout.java:145) - load training set: 7000/
+[2016-06-25 16:34:03][INFO ](LogisticRegressionMahout.java:145) - load training set: 8000/
+[2016-06-25 16:34:04][INFO ](LogisticRegressionMahout.java:145) - load training set: 9000/
+[2016-06-25 16:34:05][INFO ](LogisticRegressionMahout.java:289) - training phase: 0
+[2016-06-25 16:34:23][INFO ](LogisticRegressionMahout.java:289) - training phase: 1
+[2016-06-25 16:34:40][INFO ](LogisticRegressionMahout.java:289) - training phase: 2
+[2016-06-25 16:34:57][INFO ](LogisticRegressionMahout.java:289) - training phase: 3
+[2016-06-25 16:35:17][INFO ](LogisticRegressionMahout.java:289) - training phase: 4
+[2016-06-25 16:35:25][INFO ](LogisticRegressionMahout.java:289) - training phase: 5
+[2016-06-25 16:35:37][INFO ](LogisticRegressionMahout.java:289) - training phase: 6
+[2016-06-25 16:35:52][INFO ](LogisticRegressionMahout.java:289) - training phase: 7
+[2016-06-25 16:35:56][INFO ](LogisticRegressionMahout.java:289) - training phase: 8
+[2016-06-25 16:36:00][INFO ](LogisticRegressionMahout.java:289) - training phase: 9
+[2016-06-25 16:46:08][INFO ](LogisticRegressionMahout.java:95) - NLP Loading ....
+[2016-06-25 16:46:08][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 16:46:12][INFO ](LogisticRegressionMahout.java:97) - NLP Loading done
+[2016-06-25 16:46:12][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 0/
+[2016-06-25 16:46:13][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 1000/
+[2016-06-25 16:46:13][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 2000/
+[2016-06-25 16:46:13][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 3000/
+[2016-06-25 16:46:14][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 4000/
+[2016-06-25 16:46:14][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 5000/
+[2016-06-25 16:46:15][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 6000/
+[2016-06-25 16:46:15][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 7000/
+[2016-06-25 16:46:15][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 8000/
+[2016-06-25 16:46:16][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 9000/
+[2016-06-25 16:46:16][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 10000/
+[2016-06-25 16:46:16][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 11000/
+[2016-06-25 16:46:17][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 12000/
+[2016-06-25 16:46:17][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 13000/
+[2016-06-25 16:46:18][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 14000/
+[2016-06-25 16:46:18][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 15000/
+[2016-06-25 16:46:18][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 16000/
+[2016-06-25 16:46:19][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 17000/
+[2016-06-25 16:46:19][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 18000/
+[2016-06-25 16:46:19][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 19000/
+[2016-06-25 16:46:20][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 20000/
+[2016-06-25 16:46:20][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 21000/
+[2016-06-25 16:46:20][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 22000/
+[2016-06-25 16:46:21][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 23000/
+[2016-06-25 16:46:21][INFO ](LogisticRegressionMahout.java:145) - load training set: 0/
+[2016-06-25 16:46:22][INFO ](LogisticRegressionMahout.java:145) - load training set: 1000/
+[2016-06-25 16:46:22][INFO ](LogisticRegressionMahout.java:145) - load training set: 2000/
+[2016-06-25 16:46:22][INFO ](LogisticRegressionMahout.java:145) - load training set: 3000/
+[2016-06-25 16:46:23][INFO ](LogisticRegressionMahout.java:145) - load training set: 4000/
+[2016-06-25 16:46:23][INFO ](LogisticRegressionMahout.java:145) - load training set: 5000/
+[2016-06-25 16:46:23][INFO ](LogisticRegressionMahout.java:145) - load training set: 6000/
+[2016-06-25 16:46:23][INFO ](LogisticRegressionMahout.java:145) - load training set: 7000/
+[2016-06-25 16:46:23][INFO ](LogisticRegressionMahout.java:145) - load training set: 8000/
+[2016-06-25 16:46:24][INFO ](LogisticRegressionMahout.java:145) - load training set: 9000/
+[2016-06-25 16:46:24][INFO ](LogisticRegressionMahout.java:289) - training phase: 0
+[2016-06-25 16:46:28][INFO ](LogisticRegressionMahout.java:289) - training phase: 1
+[2016-06-25 16:46:32][INFO ](LogisticRegressionMahout.java:289) - training phase: 2
+[2016-06-25 16:46:36][INFO ](LogisticRegressionMahout.java:289) - training phase: 3
+[2016-06-25 16:46:41][INFO ](LogisticRegressionMahout.java:289) - training phase: 4
+[2016-06-25 16:46:45][INFO ](LogisticRegressionMahout.java:289) - training phase: 5
+[2016-06-25 16:46:49][INFO ](LogisticRegressionMahout.java:289) - training phase: 6
+[2016-06-25 16:46:53][INFO ](LogisticRegressionMahout.java:289) - training phase: 7
+[2016-06-25 16:46:57][INFO ](LogisticRegressionMahout.java:289) - training phase: 8
+[2016-06-25 16:47:02][INFO ](LogisticRegressionMahout.java:289) - training phase: 9
+[2016-06-25 16:47:54][INFO ](LogisticRegressionMahout.java:95) - NLP Loading ....
+[2016-06-25 16:47:54][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 16:47:58][INFO ](LogisticRegressionMahout.java:97) - NLP Loading done
+[2016-06-25 16:47:58][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 0/
+[2016-06-25 16:47:58][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 1000/
+[2016-06-25 16:47:59][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 2000/
+[2016-06-25 16:47:59][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 3000/
+[2016-06-25 16:48:00][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 4000/
+[2016-06-25 16:48:00][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 5000/
+[2016-06-25 16:48:01][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 6000/
+[2016-06-25 16:48:01][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 7000/
+[2016-06-25 16:48:01][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 8000/
+[2016-06-25 16:48:02][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 9000/
+[2016-06-25 16:48:02][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 10000/
+[2016-06-25 16:48:02][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 11000/
+[2016-06-25 16:48:03][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 12000/
+[2016-06-25 16:48:03][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 13000/
+[2016-06-25 16:48:03][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 14000/
+[2016-06-25 16:48:04][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 15000/
+[2016-06-25 16:48:04][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 16000/
+[2016-06-25 16:48:04][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 17000/
+[2016-06-25 16:48:05][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 18000/
+[2016-06-25 16:48:05][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 19000/
+[2016-06-25 16:48:05][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 20000/
+[2016-06-25 16:48:06][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 21000/
+[2016-06-25 16:48:06][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 22000/
+[2016-06-25 16:48:06][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 23000/
+[2016-06-25 16:48:07][INFO ](LogisticRegressionMahout.java:145) - load training set: 0/
+[2016-06-25 16:48:07][INFO ](LogisticRegressionMahout.java:145) - load training set: 1000/
+[2016-06-25 16:48:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 2000/
+[2016-06-25 16:48:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 3000/
+[2016-06-25 16:48:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 4000/
+[2016-06-25 16:48:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 5000/
+[2016-06-25 16:48:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 6000/
+[2016-06-25 16:48:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 7000/
+[2016-06-25 16:48:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 8000/
+[2016-06-25 16:48:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 9000/
+[2016-06-25 16:48:10][INFO ](LogisticRegressionMahout.java:289) - training phase: 0
+[2016-06-25 16:48:14][INFO ](LogisticRegressionMahout.java:289) - training phase: 1
+[2016-06-25 16:48:18][INFO ](LogisticRegressionMahout.java:289) - training phase: 2
+[2016-06-25 16:48:23][INFO ](LogisticRegressionMahout.java:289) - training phase: 3
+[2016-06-25 16:48:27][INFO ](LogisticRegressionMahout.java:289) - training phase: 4
+[2016-06-25 16:48:31][INFO ](LogisticRegressionMahout.java:289) - training phase: 5
+[2016-06-25 16:48:35][INFO ](LogisticRegressionMahout.java:289) - training phase: 6
+[2016-06-25 16:48:40][INFO ](LogisticRegressionMahout.java:289) - training phase: 7
+[2016-06-25 16:48:44][INFO ](LogisticRegressionMahout.java:289) - training phase: 8
+[2016-06-25 16:48:48][INFO ](LogisticRegressionMahout.java:289) - training phase: 9
+[2016-06-25 17:40:32][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 0
+[2016-06-25 17:40:33][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 1000
+[2016-06-25 17:40:33][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 2000
+[2016-06-25 17:40:34][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 3000
+[2016-06-25 17:40:34][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 4000
+[2016-06-25 17:40:34][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 5000
+[2016-06-25 17:40:35][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 6000
+[2016-06-25 17:40:35][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 7000
+[2016-06-25 17:40:35][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 8000
+[2016-06-25 17:40:36][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 9000
+[2016-06-25 17:40:36][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 10000
+[2016-06-25 17:40:36][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 11000
+[2016-06-25 17:40:37][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 12000
+[2016-06-25 17:40:37][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 13000
+[2016-06-25 17:40:37][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 14000
+[2016-06-25 17:40:38][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 15000
+[2016-06-25 17:40:38][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 16000
+[2016-06-25 17:40:38][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 17000
+[2016-06-25 17:40:38][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 18000
+[2016-06-25 17:40:39][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 19000
+[2016-06-25 17:40:39][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 20000
+[2016-06-25 17:40:39][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 21000
+[2016-06-25 17:40:40][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 22000
+[2016-06-25 17:40:40][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 23000
+[2016-06-25 17:40:40][INFO ](SentimentPolarityTest.java:66) - Regression Model Loading ....
+[2016-06-25 17:40:40][INFO ](SentimentPolarityTest.java:68) - Regression Model Loading done
+[2016-06-25 17:46:41][INFO ](LogisticRegressionMahout.java:95) - NLP Loading ....
+[2016-06-25 17:46:42][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 17:46:46][INFO ](LogisticRegressionMahout.java:97) - NLP Loading done
+[2016-06-25 17:46:46][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 0/
+[2016-06-25 17:46:46][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 1000/
+[2016-06-25 17:46:47][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 2000/
+[2016-06-25 17:46:47][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 3000/
+[2016-06-25 17:46:47][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 4000/
+[2016-06-25 17:46:48][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 5000/
+[2016-06-25 17:46:48][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 6000/
+[2016-06-25 17:46:48][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 7000/
+[2016-06-25 17:46:49][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 8000/
+[2016-06-25 17:46:49][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 9000/
+[2016-06-25 17:46:49][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 10000/
+[2016-06-25 17:46:50][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 11000/
+[2016-06-25 17:46:50][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 12000/
+[2016-06-25 17:46:50][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 13000/
+[2016-06-25 17:46:51][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 14000/
+[2016-06-25 17:46:51][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 15000/
+[2016-06-25 17:46:51][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 16000/
+[2016-06-25 17:46:52][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 17000/
+[2016-06-25 17:46:52][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 18000/
+[2016-06-25 17:46:52][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 19000/
+[2016-06-25 17:46:53][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 20000/
+[2016-06-25 17:46:53][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 21000/
+[2016-06-25 17:46:53][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 22000/
+[2016-06-25 17:46:54][INFO ](LogisticRegressionMahout.java:112) - word2vec model loading: 23000/
+[2016-06-25 17:46:54][INFO ](LogisticRegressionMahout.java:145) - load training set: 0/
+[2016-06-25 17:46:55][INFO ](LogisticRegressionMahout.java:145) - load training set: 1000/
+[2016-06-25 17:46:55][INFO ](LogisticRegressionMahout.java:145) - load training set: 2000/
+[2016-06-25 17:46:55][INFO ](LogisticRegressionMahout.java:145) - load training set: 3000/
+[2016-06-25 17:46:56][INFO ](LogisticRegressionMahout.java:145) - load training set: 4000/
+[2016-06-25 17:46:56][INFO ](LogisticRegressionMahout.java:145) - load training set: 5000/
+[2016-06-25 17:46:56][INFO ](LogisticRegressionMahout.java:145) - load training set: 6000/
+[2016-06-25 17:46:56][INFO ](LogisticRegressionMahout.java:145) - load training set: 7000/
+[2016-06-25 17:46:56][INFO ](LogisticRegressionMahout.java:145) - load training set: 8000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 9000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 10000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 11000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 12000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 13000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 14000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 15000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 16000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 17000/
+[2016-06-25 17:46:57][INFO ](LogisticRegressionMahout.java:145) - load training set: 18000/
+[2016-06-25 17:46:58][INFO ](LogisticRegressionMahout.java:145) - load training set: 19000/
+[2016-06-25 17:46:58][INFO ](LogisticRegressionMahout.java:145) - load training set: 20000/
+[2016-06-25 17:46:58][INFO ](LogisticRegressionMahout.java:145) - load training set: 21000/
+[2016-06-25 17:46:58][INFO ](LogisticRegressionMahout.java:145) - load training set: 22000/
+[2016-06-25 17:46:58][INFO ](LogisticRegressionMahout.java:145) - load training set: 23000/
+[2016-06-25 17:46:59][INFO ](LogisticRegressionMahout.java:145) - load training set: 24000/
+[2016-06-25 17:46:59][INFO ](LogisticRegressionMahout.java:145) - load training set: 25000/
+[2016-06-25 17:47:00][INFO ](LogisticRegressionMahout.java:145) - load training set: 26000/
+[2016-06-25 17:47:00][INFO ](LogisticRegressionMahout.java:145) - load training set: 27000/
+[2016-06-25 17:47:00][INFO ](LogisticRegressionMahout.java:145) - load training set: 28000/
+[2016-06-25 17:47:00][INFO ](LogisticRegressionMahout.java:145) - load training set: 29000/
+[2016-06-25 17:47:00][INFO ](LogisticRegressionMahout.java:145) - load training set: 30000/
+[2016-06-25 17:47:00][INFO ](LogisticRegressionMahout.java:145) - load training set: 31000/
+[2016-06-25 17:47:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 32000/
+[2016-06-25 17:47:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 33000/
+[2016-06-25 17:47:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 34000/
+[2016-06-25 17:47:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 35000/
+[2016-06-25 17:47:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 36000/
+[2016-06-25 17:47:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 37000/
+[2016-06-25 17:47:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 38000/
+[2016-06-25 17:47:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 39000/
+[2016-06-25 17:47:01][INFO ](LogisticRegressionMahout.java:145) - load training set: 40000/
+[2016-06-25 17:47:03][INFO ](LogisticRegressionMahout.java:145) - load training set: 41000/
+[2016-06-25 17:47:05][INFO ](LogisticRegressionMahout.java:145) - load training set: 42000/
+[2016-06-25 17:47:05][INFO ](LogisticRegressionMahout.java:145) - load training set: 43000/
+[2016-06-25 17:47:05][INFO ](LogisticRegressionMahout.java:145) - load training set: 44000/
+[2016-06-25 17:47:05][INFO ](LogisticRegressionMahout.java:145) - load training set: 45000/
+[2016-06-25 17:47:05][INFO ](LogisticRegressionMahout.java:145) - load training set: 46000/
+[2016-06-25 17:47:05][INFO ](LogisticRegressionMahout.java:145) - load training set: 47000/
+[2016-06-25 17:47:05][INFO ](LogisticRegressionMahout.java:145) - load training set: 48000/
+[2016-06-25 17:47:05][INFO ](LogisticRegressionMahout.java:145) - load training set: 49000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 50000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 51000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 52000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 53000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 54000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 55000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 56000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 57000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 58000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 59000/
+[2016-06-25 17:47:06][INFO ](LogisticRegressionMahout.java:145) - load training set: 60000/
+[2016-06-25 17:47:07][INFO ](LogisticRegressionMahout.java:145) - load training set: 61000/
+[2016-06-25 17:47:07][INFO ](LogisticRegressionMahout.java:145) - load training set: 62000/
+[2016-06-25 17:47:07][INFO ](LogisticRegressionMahout.java:145) - load training set: 63000/
+[2016-06-25 17:47:07][INFO ](LogisticRegressionMahout.java:145) - load training set: 64000/
+[2016-06-25 17:47:07][INFO ](LogisticRegressionMahout.java:145) - load training set: 65000/
+[2016-06-25 17:47:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 66000/
+[2016-06-25 17:47:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 67000/
+[2016-06-25 17:47:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 68000/
+[2016-06-25 17:47:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 69000/
+[2016-06-25 17:47:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 70000/
+[2016-06-25 17:47:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 71000/
+[2016-06-25 17:47:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 72000/
+[2016-06-25 17:47:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 73000/
+[2016-06-25 17:47:08][INFO ](LogisticRegressionMahout.java:145) - load training set: 74000/
+[2016-06-25 17:47:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 75000/
+[2016-06-25 17:47:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 76000/
+[2016-06-25 17:47:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 77000/
+[2016-06-25 17:47:09][INFO ](LogisticRegressionMahout.java:145) - load training set: 78000/
+[2016-06-25 17:47:10][INFO ](LogisticRegressionMahout.java:145) - load training set: 79000/
+[2016-06-25 17:47:10][INFO ](LogisticRegressionMahout.java:145) - load training set: 80000/
+[2016-06-25 17:47:10][INFO ](LogisticRegressionMahout.java:145) - load training set: 81000/
+[2016-06-25 17:47:10][INFO ](LogisticRegressionMahout.java:145) - load training set: 82000/
+[2016-06-25 17:47:10][INFO ](LogisticRegressionMahout.java:145) - load training set: 83000/
+[2016-06-25 17:47:10][INFO ](LogisticRegressionMahout.java:145) - load training set: 84000/
+[2016-06-25 17:47:13][INFO ](LogisticRegressionMahout.java:145) - load training set: 85000/
+[2016-06-25 17:47:14][INFO ](LogisticRegressionMahout.java:145) - load training set: 86000/
+[2016-06-25 17:47:14][INFO ](LogisticRegressionMahout.java:145) - load training set: 87000/
+[2016-06-25 17:47:14][INFO ](LogisticRegressionMahout.java:145) - load training set: 88000/
+[2016-06-25 17:47:15][INFO ](LogisticRegressionMahout.java:145) - load training set: 89000/
+[2016-06-25 17:47:15][INFO ](LogisticRegressionMahout.java:145) - load training set: 90000/
+[2016-06-25 17:47:15][INFO ](LogisticRegressionMahout.java:145) - load training set: 91000/
+[2016-06-25 17:47:15][INFO ](LogisticRegressionMahout.java:145) - load training set: 92000/
+[2016-06-25 17:47:15][INFO ](LogisticRegressionMahout.java:145) - load training set: 93000/
+[2016-06-25 17:47:15][INFO ](LogisticRegressionMahout.java:145) - load training set: 94000/
+[2016-06-25 17:47:17][INFO ](LogisticRegressionMahout.java:145) - load training set: 95000/
+[2016-06-25 17:47:17][INFO ](LogisticRegressionMahout.java:145) - load training set: 96000/
+[2016-06-25 17:47:17][INFO ](LogisticRegressionMahout.java:145) - load training set: 97000/
+[2016-06-25 17:47:19][INFO ](LogisticRegressionMahout.java:145) - load training set: 98000/
+[2016-06-25 17:47:20][INFO ](LogisticRegressionMahout.java:145) - load training set: 99000/
+[2016-06-25 17:47:20][INFO ](LogisticRegressionMahout.java:145) - load training set: 100000/
+[2016-06-25 17:47:21][INFO ](LogisticRegressionMahout.java:145) - load training set: 101000/
+[2016-06-25 17:47:21][INFO ](LogisticRegressionMahout.java:145) - load training set: 102000/
+[2016-06-25 17:47:22][INFO ](LogisticRegressionMahout.java:145) - load training set: 103000/
+[2016-06-25 17:47:22][INFO ](LogisticRegressionMahout.java:145) - load training set: 104000/
+[2016-06-25 17:47:22][INFO ](LogisticRegressionMahout.java:145) - load training set: 105000/
+[2016-06-25 17:47:23][INFO ](LogisticRegressionMahout.java:145) - load training set: 106000/
+[2016-06-25 17:47:23][INFO ](LogisticRegressionMahout.java:145) - load training set: 107000/
+[2016-06-25 17:47:23][INFO ](LogisticRegressionMahout.java:145) - load training set: 108000/
+[2016-06-25 17:47:23][INFO ](LogisticRegressionMahout.java:145) - load training set: 109000/
+[2016-06-25 17:47:24][INFO ](LogisticRegressionMahout.java:145) - load training set: 110000/
+[2016-06-25 17:47:24][INFO ](LogisticRegressionMahout.java:145) - load training set: 111000/
+[2016-06-25 17:47:24][INFO ](LogisticRegressionMahout.java:145) - load training set: 112000/
+[2016-06-25 17:47:24][INFO ](LogisticRegressionMahout.java:145) - load training set: 113000/
+[2016-06-25 17:47:24][INFO ](LogisticRegressionMahout.java:145) - load training set: 114000/
+[2016-06-25 17:47:25][INFO ](LogisticRegressionMahout.java:145) - load training set: 115000/
+[2016-06-25 17:47:25][INFO ](LogisticRegressionMahout.java:145) - load training set: 116000/
+[2016-06-25 17:47:25][INFO ](LogisticRegressionMahout.java:145) - load training set: 117000/
+[2016-06-25 17:47:27][INFO ](LogisticRegressionMahout.java:145) - load training set: 118000/
+[2016-06-25 17:47:27][INFO ](LogisticRegressionMahout.java:145) - load training set: 119000/
+[2016-06-25 17:47:27][INFO ](LogisticRegressionMahout.java:145) - load training set: 120000/
+[2016-06-25 17:47:27][INFO ](LogisticRegressionMahout.java:145) - load training set: 121000/
+[2016-06-25 17:47:27][INFO ](LogisticRegressionMahout.java:145) - load training set: 122000/
+[2016-06-25 17:47:27][INFO ](LogisticRegressionMahout.java:145) - load training set: 123000/
+[2016-06-25 17:47:27][INFO ](LogisticRegressionMahout.java:145) - load training set: 124000/
+[2016-06-25 17:47:28][INFO ](LogisticRegressionMahout.java:145) - load training set: 125000/
+[2016-06-25 17:47:28][INFO ](LogisticRegressionMahout.java:145) - load training set: 126000/
+[2016-06-25 17:47:28][INFO ](LogisticRegressionMahout.java:145) - load training set: 127000/
+[2016-06-25 17:47:28][INFO ](LogisticRegressionMahout.java:145) - load training set: 128000/
+[2016-06-25 17:47:29][INFO ](LogisticRegressionMahout.java:145) - load training set: 129000/
+[2016-06-25 17:47:29][INFO ](LogisticRegressionMahout.java:145) - load training set: 130000/
+[2016-06-25 17:47:29][INFO ](LogisticRegressionMahout.java:145) - load training set: 131000/
+[2016-06-25 17:47:29][INFO ](LogisticRegressionMahout.java:145) - load training set: 132000/
+[2016-06-25 17:47:29][INFO ](LogisticRegressionMahout.java:145) - load training set: 133000/
+[2016-06-25 17:47:29][INFO ](LogisticRegressionMahout.java:145) - load training set: 134000/
+[2016-06-25 17:47:29][INFO ](LogisticRegressionMahout.java:145) - load training set: 135000/
+[2016-06-25 17:47:30][INFO ](LogisticRegressionMahout.java:145) - load training set: 136000/
+[2016-06-25 17:47:30][INFO ](LogisticRegressionMahout.java:145) - load training set: 137000/
+[2016-06-25 17:47:30][INFO ](LogisticRegressionMahout.java:145) - load training set: 138000/
+[2016-06-25 17:47:33][INFO ](LogisticRegressionMahout.java:145) - load training set: 139000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 140000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 141000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 142000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 143000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 144000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 145000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 146000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 147000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 148000/
+[2016-06-25 17:47:34][INFO ](LogisticRegressionMahout.java:145) - load training set: 149000/
+[2016-06-25 17:47:35][INFO ](LogisticRegressionMahout.java:145) - load training set: 150000/
+[2016-06-25 17:47:35][INFO ](LogisticRegressionMahout.java:145) - load training set: 151000/
+[2016-06-25 17:47:35][INFO ](LogisticRegressionMahout.java:145) - load training set: 152000/
+[2016-06-25 17:47:35][INFO ](LogisticRegressionMahout.java:145) - load training set: 153000/
+[2016-06-25 17:47:35][INFO ](LogisticRegressionMahout.java:145) - load training set: 154000/
+[2016-06-25 17:47:35][INFO ](LogisticRegressionMahout.java:145) - load training set: 155000/
+[2016-06-25 17:47:35][INFO ](LogisticRegressionMahout.java:145) - load training set: 156000/
+[2016-06-25 17:47:35][INFO ](LogisticRegressionMahout.java:145) - load training set: 157000/
+[2016-06-25 17:47:35][INFO ](LogisticRegressionMahout.java:145) - load training set: 158000/
+[2016-06-25 17:47:36][INFO ](LogisticRegressionMahout.java:145) - load training set: 159000/
+[2016-06-25 17:47:36][INFO ](LogisticRegressionMahout.java:145) - load training set: 160000/
+[2016-06-25 17:47:36][INFO ](LogisticRegressionMahout.java:145) - load training set: 161000/
+[2016-06-25 17:47:36][INFO ](LogisticRegressionMahout.java:145) - load training set: 162000/
+[2016-06-25 17:47:36][INFO ](LogisticRegressionMahout.java:145) - load training set: 163000/
+[2016-06-25 17:47:36][INFO ](LogisticRegressionMahout.java:145) - load training set: 164000/
+[2016-06-25 17:47:36][INFO ](LogisticRegressionMahout.java:145) - load training set: 165000/
+[2016-06-25 17:47:36][INFO ](LogisticRegressionMahout.java:145) - load training set: 166000/
+[2016-06-25 17:47:37][INFO ](LogisticRegressionMahout.java:145) - load training set: 167000/
+[2016-06-25 17:47:37][INFO ](LogisticRegressionMahout.java:145) - load training set: 168000/
+[2016-06-25 17:47:37][INFO ](LogisticRegressionMahout.java:145) - load training set: 169000/
+[2016-06-25 17:47:37][INFO ](LogisticRegressionMahout.java:145) - load training set: 170000/
+[2016-06-25 17:47:39][INFO ](LogisticRegressionMahout.java:145) - load training set: 171000/
+[2016-06-25 17:47:40][INFO ](LogisticRegressionMahout.java:145) - load training set: 172000/
+[2016-06-25 17:47:40][INFO ](LogisticRegressionMahout.java:145) - load training set: 173000/
+[2016-06-25 17:47:40][INFO ](LogisticRegressionMahout.java:145) - load training set: 174000/
+[2016-06-25 17:47:40][INFO ](LogisticRegressionMahout.java:145) - load training set: 175000/
+[2016-06-25 17:47:40][INFO ](LogisticRegressionMahout.java:145) - load training set: 176000/
+[2016-06-25 17:47:40][INFO ](LogisticRegressionMahout.java:145) - load training set: 177000/
+[2016-06-25 17:47:40][INFO ](LogisticRegressionMahout.java:145) - load training set: 178000/
+[2016-06-25 17:47:43][INFO ](LogisticRegressionMahout.java:145) - load training set: 179000/
+[2016-06-25 17:47:43][INFO ](LogisticRegressionMahout.java:145) - load training set: 180000/
+[2016-06-25 17:47:43][INFO ](LogisticRegressionMahout.java:145) - load training set: 181000/
+[2016-06-25 17:47:52][INFO ](LogisticRegressionMahout.java:145) - load training set: 182000/
+[2016-06-25 17:47:52][INFO ](LogisticRegressionMahout.java:145) - load training set: 183000/
+[2016-06-25 17:47:52][INFO ](LogisticRegressionMahout.java:145) - load training set: 184000/
+[2016-06-25 17:47:52][INFO ](LogisticRegressionMahout.java:145) - load training set: 185000/
+[2016-06-25 17:47:52][INFO ](LogisticRegressionMahout.java:145) - load training set: 186000/
+[2016-06-25 17:47:52][INFO ](LogisticRegressionMahout.java:145) - load training set: 187000/
+[2016-06-25 17:47:53][INFO ](LogisticRegressionMahout.java:145) - load training set: 188000/
+[2016-06-25 17:47:53][INFO ](LogisticRegressionMahout.java:145) - load training set: 189000/
+[2016-06-25 17:47:53][INFO ](LogisticRegressionMahout.java:145) - load training set: 190000/
+[2016-06-25 17:47:53][INFO ](LogisticRegressionMahout.java:145) - load training set: 191000/
+[2016-06-25 17:47:53][INFO ](LogisticRegressionMahout.java:145) - load training set: 192000/
+[2016-06-25 17:47:53][INFO ](LogisticRegressionMahout.java:145) - load training set: 193000/
+[2016-06-25 17:47:53][INFO ](LogisticRegressionMahout.java:145) - load training set: 194000/
+[2016-06-25 17:47:54][INFO ](LogisticRegressionMahout.java:145) - load training set: 195000/
+[2016-06-25 17:47:54][INFO ](LogisticRegressionMahout.java:145) - load training set: 196000/
+[2016-06-25 17:47:54][INFO ](LogisticRegressionMahout.java:145) - load training set: 197000/
+[2016-06-25 17:47:54][INFO ](LogisticRegressionMahout.java:145) - load training set: 198000/
+[2016-06-25 17:47:54][INFO ](LogisticRegressionMahout.java:145) - load training set: 199000/
+[2016-06-25 17:47:55][INFO ](LogisticRegressionMahout.java:145) - load training set: 200000/
+[2016-06-25 17:47:55][INFO ](LogisticRegressionMahout.java:283) - Training ....
+[2016-06-25 17:47:55][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 0
+[2016-06-25 17:47:56][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 10000
+[2016-06-25 17:47:56][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 20000
+[2016-06-25 17:47:57][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 30000
+[2016-06-25 17:47:58][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 40000
+[2016-06-25 17:47:58][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 50000
+[2016-06-25 17:47:59][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 60000
+[2016-06-25 17:48:00][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 70000
+[2016-06-25 17:48:00][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 80000
+[2016-06-25 17:48:01][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 90000
+[2016-06-25 17:48:01][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 100000
+[2016-06-25 17:48:02][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 110000
+[2016-06-25 17:48:03][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 120000
+[2016-06-25 17:48:04][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 130000
+[2016-06-25 17:48:04][INFO ](LogisticRegressionMahout.java:293) - training phase: 0, entry: 140000
+[2016-06-25 17:48:06][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 0
+[2016-06-25 17:48:07][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 10000
+[2016-06-25 17:48:07][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 20000
+[2016-06-25 17:48:08][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 30000
+[2016-06-25 17:48:08][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 40000
+[2016-06-25 17:48:09][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 50000
+[2016-06-25 17:48:10][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 60000
+[2016-06-25 17:48:10][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 70000
+[2016-06-25 17:48:11][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 80000
+[2016-06-25 17:48:11][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 90000
+[2016-06-25 17:48:12][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 100000
+[2016-06-25 17:48:13][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 110000
+[2016-06-25 17:48:13][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 120000
+[2016-06-25 17:48:14][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 130000
+[2016-06-25 17:48:14][INFO ](LogisticRegressionMahout.java:293) - training phase: 1, entry: 140000
+[2016-06-25 17:48:15][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 0
+[2016-06-25 17:48:15][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 10000
+[2016-06-25 17:48:16][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 20000
+[2016-06-25 17:48:17][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 30000
+[2016-06-25 17:48:17][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 40000
+[2016-06-25 17:48:18][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 50000
+[2016-06-25 17:48:18][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 60000
+[2016-06-25 17:48:19][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 70000
+[2016-06-25 17:48:19][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 80000
+[2016-06-25 17:48:20][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 90000
+[2016-06-25 17:48:21][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 100000
+[2016-06-25 17:48:21][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 110000
+[2016-06-25 17:48:22][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 120000
+[2016-06-25 17:48:22][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 130000
+[2016-06-25 17:48:23][INFO ](LogisticRegressionMahout.java:293) - training phase: 2, entry: 140000
+[2016-06-25 17:48:23][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 0
+[2016-06-25 17:48:24][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 10000
+[2016-06-25 17:48:24][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 20000
+[2016-06-25 17:48:25][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 30000
+[2016-06-25 17:48:25][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 40000
+[2016-06-25 17:48:26][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 50000
+[2016-06-25 17:48:27][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 60000
+[2016-06-25 17:48:27][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 70000
+[2016-06-25 17:48:28][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 80000
+[2016-06-25 17:48:29][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 90000
+[2016-06-25 17:48:29][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 100000
+[2016-06-25 17:48:30][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 110000
+[2016-06-25 17:48:30][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 120000
+[2016-06-25 17:48:31][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 130000
+[2016-06-25 17:48:32][INFO ](LogisticRegressionMahout.java:293) - training phase: 3, entry: 140000
+[2016-06-25 17:48:32][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 0
+[2016-06-25 17:48:33][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 10000
+[2016-06-25 17:48:33][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 20000
+[2016-06-25 17:48:34][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 30000
+[2016-06-25 17:48:35][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 40000
+[2016-06-25 17:48:35][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 50000
+[2016-06-25 17:48:36][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 60000
+[2016-06-25 17:48:37][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 70000
+[2016-06-25 17:48:37][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 80000
+[2016-06-25 17:48:38][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 90000
+[2016-06-25 17:48:39][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 100000
+[2016-06-25 17:48:39][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 110000
+[2016-06-25 17:48:40][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 120000
+[2016-06-25 17:48:41][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 130000
+[2016-06-25 17:48:42][INFO ](LogisticRegressionMahout.java:293) - training phase: 4, entry: 140000
+[2016-06-25 17:48:43][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 0
+[2016-06-25 17:48:44][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 10000
+[2016-06-25 17:48:44][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 20000
+[2016-06-25 17:48:45][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 30000
+[2016-06-25 17:48:46][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 40000
+[2016-06-25 17:48:47][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 50000
+[2016-06-25 17:48:47][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 60000
+[2016-06-25 17:48:48][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 70000
+[2016-06-25 17:48:49][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 80000
+[2016-06-25 17:48:49][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 90000
+[2016-06-25 17:48:50][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 100000
+[2016-06-25 17:48:51][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 110000
+[2016-06-25 17:48:51][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 120000
+[2016-06-25 17:48:52][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 130000
+[2016-06-25 17:48:53][INFO ](LogisticRegressionMahout.java:293) - training phase: 5, entry: 140000
+[2016-06-25 17:48:53][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 0
+[2016-06-25 17:48:54][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 10000
+[2016-06-25 17:48:55][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 20000
+[2016-06-25 17:48:55][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 30000
+[2016-06-25 17:48:56][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 40000
+[2016-06-25 17:48:57][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 50000
+[2016-06-25 17:48:58][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 60000
+[2016-06-25 17:48:58][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 70000
+[2016-06-25 17:48:59][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 80000
+[2016-06-25 17:49:00][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 90000
+[2016-06-25 17:49:00][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 100000
+[2016-06-25 17:49:01][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 110000
+[2016-06-25 17:49:02][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 120000
+[2016-06-25 17:49:02][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 130000
+[2016-06-25 17:49:03][INFO ](LogisticRegressionMahout.java:293) - training phase: 6, entry: 140000
+[2016-06-25 17:49:03][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 0
+[2016-06-25 17:49:04][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 10000
+[2016-06-25 17:49:05][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 20000
+[2016-06-25 17:49:05][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 30000
+[2016-06-25 17:49:06][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 40000
+[2016-06-25 17:49:07][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 50000
+[2016-06-25 17:49:07][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 60000
+[2016-06-25 17:49:08][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 70000
+[2016-06-25 17:49:09][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 80000
+[2016-06-25 17:49:09][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 90000
+[2016-06-25 17:49:10][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 100000
+[2016-06-25 17:49:11][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 110000
+[2016-06-25 17:49:11][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 120000
+[2016-06-25 17:49:12][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 130000
+[2016-06-25 17:49:12][INFO ](LogisticRegressionMahout.java:293) - training phase: 7, entry: 140000
+[2016-06-25 17:49:13][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 0
+[2016-06-25 17:49:13][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 10000
+[2016-06-25 17:49:14][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 20000
+[2016-06-25 17:49:15][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 30000
+[2016-06-25 17:49:15][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 40000
+[2016-06-25 17:49:16][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 50000
+[2016-06-25 17:49:16][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 60000
+[2016-06-25 17:49:17][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 70000
+[2016-06-25 17:49:17][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 80000
+[2016-06-25 17:49:18][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 90000
+[2016-06-25 17:49:19][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 100000
+[2016-06-25 17:49:19][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 110000
+[2016-06-25 17:49:20][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 120000
+[2016-06-25 17:49:21][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 130000
+[2016-06-25 17:49:21][INFO ](LogisticRegressionMahout.java:293) - training phase: 8, entry: 140000
+[2016-06-25 17:49:22][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 0
+[2016-06-25 17:49:22][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 10000
+[2016-06-25 17:49:23][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 20000
+[2016-06-25 17:49:24][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 30000
+[2016-06-25 17:49:24][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 40000
+[2016-06-25 17:49:25][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 50000
+[2016-06-25 17:49:25][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 60000
+[2016-06-25 17:49:26][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 70000
+[2016-06-25 17:49:27][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 80000
+[2016-06-25 17:49:27][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 90000
+[2016-06-25 17:49:28][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 100000
+[2016-06-25 17:49:28][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 110000
+[2016-06-25 17:49:29][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 120000
+[2016-06-25 17:49:30][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 130000
+[2016-06-25 17:49:30][INFO ](LogisticRegressionMahout.java:293) - training phase: 9, entry: 140000
+[2016-06-25 17:49:31][INFO ](LogisticRegressionMahout.java:300) - Training done
+[2016-06-25 17:49:31][INFO ](LogisticRegressionMahout.java:303) - Writing Regression Model ....
+[2016-06-25 17:49:31][INFO ](LogisticRegressionMahout.java:305) - Writing Regression Model done
+[2016-06-25 17:50:50][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 0
+[2016-06-25 17:50:50][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 1000
+[2016-06-25 17:50:50][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 2000
+[2016-06-25 17:50:51][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 3000
+[2016-06-25 17:50:51][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 4000
+[2016-06-25 17:50:51][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 5000
+[2016-06-25 17:50:52][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 6000
+[2016-06-25 17:50:52][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 7000
+[2016-06-25 17:50:52][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 8000
+[2016-06-25 17:50:53][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 9000
+[2016-06-25 17:50:53][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 10000
+[2016-06-25 17:50:54][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 11000
+[2016-06-25 17:50:54][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 12000
+[2016-06-25 17:50:54][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 13000
+[2016-06-25 17:50:55][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 14000
+[2016-06-25 17:50:55][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 15000
+[2016-06-25 17:50:55][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 16000
+[2016-06-25 17:50:55][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 17000
+[2016-06-25 17:50:56][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 18000
+[2016-06-25 17:50:56][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 19000
+[2016-06-25 17:50:56][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 20000
+[2016-06-25 17:50:57][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 21000
+[2016-06-25 17:50:57][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 22000
+[2016-06-25 17:50:57][INFO ](SentimentPolarityTest.java:40) - Word2Vec Model loading: 23000
+[2016-06-25 17:50:57][INFO ](SentimentPolarityTest.java:66) - Regression Model Loading ....
+[2016-06-25 17:50:57][INFO ](SentimentPolarityTest.java:68) - Regression Model Loading done
+[2016-06-25 17:51:05][INFO ](SentimentPolarityTest.java:74) - Testing: 24000
+[2016-06-25 17:51:15][INFO ](SentimentPolarityTest.java:74) - Testing: 25000
+[2016-06-25 17:56:58][INFO ](LogisticRegressionMahout.java:97) - NLP Loading ....
+[2016-06-25 17:56:59][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 17:57:02][INFO ](LogisticRegressionMahout.java:99) - NLP Loading done
+[2016-06-25 17:57:02][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 0/
+[2016-06-25 17:57:03][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 1000/
+[2016-06-25 17:57:03][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 2000/
+[2016-06-25 17:57:03][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 3000/
+[2016-06-25 17:57:04][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 4000/
+[2016-06-25 17:57:04][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 5000/
+[2016-06-25 17:57:04][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 6000/
+[2016-06-25 17:57:05][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 7000/
+[2016-06-25 17:57:05][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 8000/
+[2016-06-25 17:57:06][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 9000/
+[2016-06-25 17:57:06][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 10000/
+[2016-06-25 17:57:06][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 11000/
+[2016-06-25 17:57:07][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 12000/
+[2016-06-25 17:57:07][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 13000/
+[2016-06-25 17:57:07][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 14000/
+[2016-06-25 17:57:08][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 15000/
+[2016-06-25 17:57:08][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 16000/
+[2016-06-25 17:57:08][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 17000/
+[2016-06-25 17:57:09][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 18000/
+[2016-06-25 17:57:39][INFO ](LogisticRegressionMahout.java:97) - NLP Loading ....
+[2016-06-25 17:57:39][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-06-25 17:57:44][INFO ](LogisticRegressionMahout.java:99) - NLP Loading done
+[2016-06-25 17:57:44][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 0/
+[2016-06-25 17:57:44][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 1000/
+[2016-06-25 17:57:45][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 2000/
+[2016-06-25 17:57:45][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 3000/
+[2016-06-25 17:57:45][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 4000/
+[2016-06-25 17:57:46][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 5000/
+[2016-06-25 17:57:46][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 6000/
+[2016-06-25 17:57:46][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 7000/
+[2016-06-25 17:57:47][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 8000/
+[2016-06-25 17:57:47][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 9000/
+[2016-06-25 17:57:48][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 10000/
+[2016-06-25 17:57:48][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 11000/
+[2016-06-25 17:57:48][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 12000/
+[2016-06-25 17:57:49][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 13000/
+[2016-06-25 17:57:49][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 14000/
+[2016-06-25 17:57:49][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 15000/
+[2016-06-25 17:57:50][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 16000/
+[2016-06-25 17:57:50][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 17000/
+[2016-06-25 17:57:50][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 18000/
+[2016-06-25 17:57:51][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 19000/
+[2016-06-25 17:57:51][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 20000/
+[2016-06-25 17:57:51][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 21000/
+[2016-06-25 17:57:52][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 22000/
+[2016-06-25 17:57:52][INFO ](LogisticRegressionMahout.java:114) - word2vec model loading: 23000/
+[2016-06-25 17:57:52][INFO ](LogisticRegressionMahout.java:147) - load training set: 0/
+[2016-06-25 17:57:53][INFO ](LogisticRegressionMahout.java:147) - load training set: 1000/
+[2016-06-25 17:57:53][INFO ](LogisticRegressionMahout.java:147) - load training set: 2000/
+[2016-06-25 17:57:54][INFO ](LogisticRegressionMahout.java:147) - load training set: 3000/
+[2016-06-25 17:57:55][INFO ](LogisticRegressionMahout.java:147) - load training set: 4000/
+[2016-06-25 17:57:55][INFO ](LogisticRegressionMahout.java:147) - load training set: 5000/
+[2016-06-25 17:57:55][INFO ](LogisticRegressionMahout.java:147) - load training set: 6000/
+[2016-06-25 17:57:55][INFO ](LogisticRegressionMahout.java:147) - load training set: 7000/
+[2016-06-25 17:57:55][INFO ](LogisticRegressionMahout.java:147) - load training set: 8000/
+[2016-06-25 17:57:55][INFO ](LogisticRegressionMahout.java:147) - load training set: 9000/
+[2016-06-25 17:57:55][INFO ](LogisticRegressionMahout.java:147) - load training set: 10000/
+[2016-06-25 17:57:56][INFO ](LogisticRegressionMahout.java:147) - load training set: 11000/
+[2016-06-25 17:57:56][INFO ](LogisticRegressionMahout.java:147) - load training set: 12000/
+[2016-06-25 17:57:56][INFO ](LogisticRegressionMahout.java:147) - load training set: 13000/
+[2016-06-25 17:57:56][INFO ](LogisticRegressionMahout.java:147) - load training set: 14000/
+[2016-06-25 17:57:56][INFO ](LogisticRegressionMahout.java:147) - load training set: 15000/
+[2016-06-25 17:57:56][INFO ](LogisticRegressionMahout.java:147) - load training set: 16000/
+[2016-06-25 17:57:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 17000/
+[2016-06-25 17:57:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 18000/
+[2016-06-25 17:57:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 19000/
+[2016-06-25 17:57:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 20000/
+[2016-06-25 17:57:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 21000/
+[2016-06-25 17:57:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 22000/
+[2016-06-25 17:57:58][INFO ](LogisticRegressionMahout.java:147) - load training set: 23000/
+[2016-06-25 17:57:58][INFO ](LogisticRegressionMahout.java:147) - load training set: 24000/
+[2016-06-25 17:57:58][INFO ](LogisticRegressionMahout.java:147) - load training set: 25000/
+[2016-06-25 17:57:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 26000/
+[2016-06-25 17:57:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 27000/
+[2016-06-25 17:57:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 28000/
+[2016-06-25 17:57:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 29000/
+[2016-06-25 17:57:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 30000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 31000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 32000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 33000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 34000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 35000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 36000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 37000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 38000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 39000/
+[2016-06-25 17:58:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 40000/
+[2016-06-25 17:58:02][INFO ](LogisticRegressionMahout.java:147) - load training set: 41000/
+[2016-06-25 17:58:04][INFO ](LogisticRegressionMahout.java:147) - load training set: 42000/
+[2016-06-25 17:58:04][INFO ](LogisticRegressionMahout.java:147) - load training set: 43000/
+[2016-06-25 17:58:04][INFO ](LogisticRegressionMahout.java:147) - load training set: 44000/
+[2016-06-25 17:58:04][INFO ](LogisticRegressionMahout.java:147) - load training set: 45000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 46000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 47000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 48000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 49000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 50000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 51000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 52000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 53000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 54000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 55000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 56000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 57000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 58000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 59000/
+[2016-06-25 17:58:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 60000/
+[2016-06-25 17:58:06][INFO ](LogisticRegressionMahout.java:147) - load training set: 61000/
+[2016-06-25 17:58:06][INFO ](LogisticRegressionMahout.java:147) - load training set: 62000/
+[2016-06-25 17:58:06][INFO ](LogisticRegressionMahout.java:147) - load training set: 63000/
+[2016-06-25 17:58:06][INFO ](LogisticRegressionMahout.java:147) - load training set: 64000/
+[2016-06-25 17:58:06][INFO ](LogisticRegressionMahout.java:147) - load training set: 65000/
+[2016-06-25 17:58:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 66000/
+[2016-06-25 17:58:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 67000/
+[2016-06-25 17:58:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 68000/
+[2016-06-25 17:58:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 69000/
+[2016-06-25 17:58:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 70000/
+[2016-06-25 17:58:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 71000/
+[2016-06-25 17:58:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 72000/
+[2016-06-25 17:58:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 73000/
+[2016-06-25 17:58:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 74000/
+[2016-06-25 17:58:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 75000/
+[2016-06-25 17:58:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 76000/
+[2016-06-25 17:58:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 77000/
+[2016-06-25 17:58:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 78000/
+[2016-06-25 17:58:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 79000/
+[2016-06-25 17:58:09][INFO ](LogisticRegressionMahout.java:147) - load training set: 80000/
+[2016-06-25 17:58:09][INFO ](LogisticRegressionMahout.java:147) - load training set: 81000/
+[2016-06-25 17:58:09][INFO ](LogisticRegressionMahout.java:147) - load training set: 82000/
+[2016-06-25 17:58:09][INFO ](LogisticRegressionMahout.java:147) - load training set: 83000/
+[2016-06-25 17:58:09][INFO ](LogisticRegressionMahout.java:147) - load training set: 84000/
+[2016-06-25 17:58:12][INFO ](LogisticRegressionMahout.java:147) - load training set: 85000/
+[2016-06-25 17:58:13][INFO ](LogisticRegressionMahout.java:147) - load training set: 86000/
+[2016-06-25 17:58:13][INFO ](LogisticRegressionMahout.java:147) - load training set: 87000/
+[2016-06-25 17:58:13][INFO ](LogisticRegressionMahout.java:147) - load training set: 88000/
+[2016-06-25 17:58:13][INFO ](LogisticRegressionMahout.java:147) - load training set: 89000/
+[2016-06-25 17:58:13][INFO ](LogisticRegressionMahout.java:147) - load training set: 90000/
+[2016-06-25 17:58:13][INFO ](LogisticRegressionMahout.java:147) - load training set: 91000/
+[2016-06-25 17:58:13][INFO ](LogisticRegressionMahout.java:147) - load training set: 92000/
+[2016-06-25 17:58:14][INFO ](LogisticRegressionMahout.java:147) - load training set: 93000/
+[2016-06-25 17:58:14][INFO ](LogisticRegressionMahout.java:147) - load training set: 94000/
+[2016-06-25 17:58:15][INFO ](LogisticRegressionMahout.java:147) - load training set: 95000/
+[2016-06-25 17:58:17][INFO ](LogisticRegressionMahout.java:147) - load training set: 96000/
+[2016-06-25 17:58:17][INFO ](LogisticRegressionMahout.java:147) - load training set: 97000/
+[2016-06-25 17:58:20][INFO ](LogisticRegressionMahout.java:147) - load training set: 98000/
+[2016-06-25 17:58:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 99000/
+[2016-06-25 17:58:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 100000/
+[2016-06-25 17:58:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 101000/
+[2016-06-25 17:58:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 102000/
+[2016-06-25 17:58:23][INFO ](LogisticRegressionMahout.java:147) - load training set: 103000/
+[2016-06-25 17:58:23][INFO ](LogisticRegressionMahout.java:147) - load training set: 104000/
+[2016-06-25 17:58:23][INFO ](LogisticRegressionMahout.java:147) - load training set: 105000/
+[2016-06-25 17:58:24][INFO ](LogisticRegressionMahout.java:147) - load training set: 106000/
+[2016-06-25 17:58:24][INFO ](LogisticRegressionMahout.java:147) - load training set: 107000/
+[2016-06-25 17:58:24][INFO ](LogisticRegressionMahout.java:147) - load training set: 108000/
+[2016-06-25 17:58:24][INFO ](LogisticRegressionMahout.java:147) - load training set: 109000/
+[2016-06-25 17:58:26][INFO ](LogisticRegressionMahout.java:147) - load training set: 110000/
+[2016-06-25 17:58:26][INFO ](LogisticRegressionMahout.java:147) - load training set: 111000/
+[2016-06-25 17:58:26][INFO ](LogisticRegressionMahout.java:147) - load training set: 112000/
+[2016-06-25 17:58:26][INFO ](LogisticRegressionMahout.java:147) - load training set: 113000/
+[2016-06-25 17:58:26][INFO ](LogisticRegressionMahout.java:147) - load training set: 114000/
+[2016-06-25 17:58:26][INFO ](LogisticRegressionMahout.java:147) - load training set: 115000/
+[2016-06-25 17:58:26][INFO ](LogisticRegressionMahout.java:147) - load training set: 116000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 117000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 118000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 119000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 120000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 121000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 122000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 123000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 124000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 125000/
+[2016-06-25 17:58:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 126000/
+[2016-06-25 17:58:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 127000/
+[2016-06-25 17:58:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 128000/
+[2016-06-25 17:58:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 129000/
+[2016-06-25 17:58:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 130000/
+[2016-06-25 17:58:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 131000/
+[2016-06-25 17:58:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 132000/
+[2016-06-25 17:58:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 133000/
+[2016-06-25 17:58:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 134000/
+[2016-06-25 17:58:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 135000/
+[2016-06-25 17:58:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 136000/
+[2016-06-25 17:58:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 137000/
+[2016-06-25 17:58:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 138000/
+[2016-06-25 17:58:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 139000/
+[2016-06-25 17:58:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 140000/
+[2016-06-25 17:58:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 141000/
+[2016-06-25 17:58:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 142000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 143000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 144000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 145000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 146000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 147000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 148000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 149000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 150000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 151000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 152000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 153000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 154000/
+[2016-06-25 17:58:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 155000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 156000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 157000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 158000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 159000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 160000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 161000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 162000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 163000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 164000/
+[2016-06-25 17:58:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 165000/
+[2016-06-25 17:58:33][INFO ](LogisticRegressionMahout.java:147) - load training set: 166000/
+[2016-06-25 17:58:33][INFO ](LogisticRegressionMahout.java:147) - load training set: 167000/
+[2016-06-25 17:58:33][INFO ](LogisticRegressionMahout.java:147) - load training set: 168000/
+[2016-06-25 17:58:33][INFO ](LogisticRegressionMahout.java:147) - load training set: 169000/
+[2016-06-25 17:58:33][INFO ](LogisticRegressionMahout.java:147) - load training set: 170000/
+[2016-06-25 17:58:35][INFO ](LogisticRegressionMahout.java:147) - load training set: 171000/
+[2016-06-25 17:58:35][INFO ](LogisticRegressionMahout.java:147) - load training set: 172000/
+[2016-06-25 17:58:36][INFO ](LogisticRegressionMahout.java:147) - load training set: 173000/
+[2016-06-25 17:58:36][INFO ](LogisticRegressionMahout.java:147) - load training set: 174000/
+[2016-06-25 17:58:36][INFO ](LogisticRegressionMahout.java:147) - load training set: 175000/
+[2016-06-25 17:58:36][INFO ](LogisticRegressionMahout.java:147) - load training set: 176000/
+[2016-06-25 17:58:36][INFO ](LogisticRegressionMahout.java:147) - load training set: 177000/
+[2016-06-25 17:58:36][INFO ](LogisticRegressionMahout.java:147) - load training set: 178000/
+[2016-06-25 17:58:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 179000/
+[2016-06-25 17:58:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 180000/
+[2016-06-25 17:58:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 181000/
+[2016-06-25 17:58:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 182000/
+[2016-06-25 17:58:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 183000/
+[2016-06-25 17:58:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 184000/
+[2016-06-25 17:58:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 185000/
+[2016-06-25 17:58:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 186000/
+[2016-06-25 17:58:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 187000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 188000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 189000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 190000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 191000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 192000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 193000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 194000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 195000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 196000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 197000/
+[2016-06-25 17:58:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 198000/
+[2016-06-25 17:58:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 199000/
+[2016-06-25 17:58:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 200000/
+[2016-06-25 17:58:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 201000/
+[2016-06-25 17:58:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 202000/
+[2016-06-25 17:58:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 203000/
+[2016-06-25 17:58:43][INFO ](LogisticRegressionMahout.java:147) - load training set: 204000/
+[2016-06-25 17:58:43][INFO ](LogisticRegressionMahout.java:147) - load training set: 205000/
+[2016-06-25 17:58:43][INFO ](LogisticRegressionMahout.java:147) - load training set: 206000/
+[2016-06-25 17:58:44][INFO ](LogisticRegressionMahout.java:147) - load training set: 207000/
+[2016-06-25 17:58:44][INFO ](LogisticRegressionMahout.java:147) - load training set: 208000/
+[2016-06-25 17:58:44][INFO ](LogisticRegressionMahout.java:147) - load training set: 209000/
+[2016-06-25 17:58:44][INFO ](LogisticRegressionMahout.java:147) - load training set: 210000/
+[2016-06-25 17:58:44][INFO ](LogisticRegressionMahout.java:147) - load training set: 211000/
+[2016-06-25 17:58:45][INFO ](LogisticRegressionMahout.java:147) - load training set: 212000/
+[2016-06-25 17:58:45][INFO ](LogisticRegressionMahout.java:147) - load training set: 213000/
+[2016-06-25 17:58:45][INFO ](LogisticRegressionMahout.java:147) - load training set: 214000/
+[2016-06-25 17:58:45][INFO ](LogisticRegressionMahout.java:147) - load training set: 215000/
+[2016-06-25 17:58:45][INFO ](LogisticRegressionMahout.java:147) - load training set: 216000/
+[2016-06-25 17:58:45][INFO ](LogisticRegressionMahout.java:147) - load training set: 217000/
+[2016-06-25 17:58:45][INFO ](LogisticRegressionMahout.java:147) - load training set: 218000/
+[2016-06-25 17:58:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 219000/
+[2016-06-25 17:58:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 220000/
+[2016-06-25 17:58:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 221000/
+[2016-06-25 17:58:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 222000/
+[2016-06-25 17:58:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 223000/
+[2016-06-25 17:58:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 224000/
+[2016-06-25 17:58:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 225000/
+[2016-06-25 17:58:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 226000/
+[2016-06-25 17:58:47][INFO ](LogisticRegressionMahout.java:147) - load training set: 227000/
+[2016-06-25 17:58:47][INFO ](LogisticRegressionMahout.java:147) - load training set: 228000/
+[2016-06-25 17:58:47][INFO ](LogisticRegressionMahout.java:147) - load training set: 229000/
+[2016-06-25 17:58:47][INFO ](LogisticRegressionMahout.java:147) - load training set: 230000/
+[2016-06-25 17:58:54][INFO ](LogisticRegressionMahout.java:147) - load training set: 231000/
+[2016-06-25 17:58:55][INFO ](LogisticRegressionMahout.java:147) - load training set: 232000/
+[2016-06-25 17:58:56][INFO ](LogisticRegressionMahout.java:147) - load training set: 233000/
+[2016-06-25 17:58:56][INFO ](LogisticRegressionMahout.java:147) - load training set: 234000/
+[2016-06-25 17:58:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 235000/
+[2016-06-25 17:58:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 236000/
+[2016-06-25 17:58:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 237000/
+[2016-06-25 17:58:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 238000/
+[2016-06-25 17:58:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 239000/
+[2016-06-25 17:58:58][INFO ](LogisticRegressionMahout.java:147) - load training set: 240000/
+[2016-06-25 17:58:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 241000/
+[2016-06-25 17:58:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 242000/
+[2016-06-25 17:59:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 243000/
+[2016-06-25 17:59:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 244000/
+[2016-06-25 17:59:15][INFO ](LogisticRegressionMahout.java:147) - load training set: 245000/
+[2016-06-25 17:59:15][INFO ](LogisticRegressionMahout.java:147) - load training set: 246000/
+[2016-06-25 17:59:15][INFO ](LogisticRegressionMahout.java:147) - load training set: 247000/
+[2016-06-25 17:59:15][INFO ](LogisticRegressionMahout.java:147) - load training set: 248000/
+[2016-06-25 17:59:15][INFO ](LogisticRegressionMahout.java:147) - load training set: 249000/
+[2016-06-25 17:59:15][INFO ](LogisticRegressionMahout.java:147) - load training set: 250000/
+[2016-06-25 17:59:15][INFO ](LogisticRegressionMahout.java:147) - load training set: 251000/
+[2016-06-25 17:59:18][INFO ](LogisticRegressionMahout.java:147) - load training set: 252000/
+[2016-06-25 17:59:18][INFO ](LogisticRegressionMahout.java:147) - load training set: 253000/
+[2016-06-25 17:59:18][INFO ](LogisticRegressionMahout.java:147) - load training set: 254000/
+[2016-06-25 17:59:18][INFO ](LogisticRegressionMahout.java:147) - load training set: 255000/
+[2016-06-25 17:59:19][INFO ](LogisticRegressionMahout.java:147) - load training set: 256000/
+[2016-06-25 17:59:19][INFO ](LogisticRegressionMahout.java:147) - load training set: 257000/
+[2016-06-25 17:59:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 258000/
+[2016-06-25 17:59:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 259000/
+[2016-06-25 17:59:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 260000/
+[2016-06-25 17:59:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 261000/
+[2016-06-25 17:59:23][INFO ](LogisticRegressionMahout.java:147) - load training set: 262000/
+[2016-06-25 17:59:24][INFO ](LogisticRegressionMahout.java:147) - load training set: 263000/
+[2016-06-25 17:59:24][INFO ](LogisticRegressionMahout.java:147) - load training set: 264000/
+[2016-06-25 17:59:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 265000/
+[2016-06-25 17:59:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 266000/
+[2016-06-25 17:59:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 267000/
+[2016-06-25 17:59:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 268000/
+[2016-06-25 17:59:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 269000/
+[2016-06-25 17:59:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 270000/
+[2016-06-25 17:59:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 271000/
+[2016-06-25 17:59:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 272000/
+[2016-06-25 17:59:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 273000/
+[2016-06-25 17:59:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 274000/
+[2016-06-25 17:59:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 275000/
+[2016-06-25 17:59:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 276000/
+[2016-06-25 17:59:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 277000/
+[2016-06-25 17:59:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 278000/
+[2016-06-25 17:59:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 279000/
+[2016-06-25 17:59:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 280000/
+[2016-06-25 17:59:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 281000/
+[2016-06-25 17:59:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 282000/
+[2016-06-25 17:59:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 283000/
+[2016-06-25 17:59:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 284000/
+[2016-06-25 17:59:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 285000/
+[2016-06-25 17:59:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 286000/
+[2016-06-25 17:59:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 287000/
+[2016-06-25 17:59:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 288000/
+[2016-06-25 17:59:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 289000/
+[2016-06-25 17:59:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 290000/
+[2016-06-25 17:59:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 291000/
+[2016-06-25 17:59:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 292000/
+[2016-06-25 17:59:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 293000/
+[2016-06-25 17:59:41][INFO ](LogisticRegressionMahout.java:147) - load training set: 294000/
+[2016-06-25 17:59:41][INFO ](LogisticRegressionMahout.java:147) - load training set: 295000/
+[2016-06-25 17:59:41][INFO ](LogisticRegressionMahout.java:147) - load training set: 296000/
+[2016-06-25 17:59:41][INFO ](LogisticRegressionMahout.java:147) - load training set: 297000/
+[2016-06-25 17:59:42][INFO ](LogisticRegressionMahout.java:147) - load training set: 298000/
+[2016-06-25 17:59:42][INFO ](LogisticRegressionMahout.java:147) - load training set: 299000/
+[2016-06-25 17:59:42][INFO ](LogisticRegressionMahout.java:147) - load training set: 300000/
+[2016-06-25 17:59:43][INFO ](LogisticRegressionMahout.java:147) - load training set: 301000/
+[2016-06-25 17:59:48][INFO ](LogisticRegressionMahout.java:147) - load training set: 302000/
+[2016-06-25 17:59:50][INFO ](LogisticRegressionMahout.java:147) - load training set: 303000/
+[2016-06-25 17:59:50][INFO ](LogisticRegressionMahout.java:147) - load training set: 304000/
+[2016-06-25 17:59:50][INFO ](LogisticRegressionMahout.java:147) - load training set: 305000/
+[2016-06-25 17:59:50][INFO ](LogisticRegressionMahout.java:147) - load training set: 306000/
+[2016-06-25 17:59:50][INFO ](LogisticRegressionMahout.java:147) - load training set: 307000/
+[2016-06-25 17:59:51][INFO ](LogisticRegressionMahout.java:147) - load training set: 308000/
+[2016-06-25 17:59:51][INFO ](LogisticRegressionMahout.java:147) - load training set: 309000/
+[2016-06-25 17:59:51][INFO ](LogisticRegressionMahout.java:147) - load training set: 310000/
+[2016-06-25 17:59:51][INFO ](LogisticRegressionMahout.java:147) - load training set: 311000/
+[2016-06-25 17:59:52][INFO ](LogisticRegressionMahout.java:147) - load training set: 312000/
+[2016-06-25 17:59:52][INFO ](LogisticRegressionMahout.java:147) - load training set: 313000/
+[2016-06-25 17:59:53][INFO ](LogisticRegressionMahout.java:147) - load training set: 314000/
+[2016-06-25 18:00:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 315000/
+[2016-06-25 18:01:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 316000/
+[2016-06-25 18:01:40][INFO ](LogisticRegressionMahout.java:147) - load training set: 317000/
+[2016-06-25 18:01:41][INFO ](LogisticRegressionMahout.java:147) - load training set: 318000/
+[2016-06-25 18:01:42][INFO ](LogisticRegressionMahout.java:147) - load training set: 319000/
+[2016-06-25 18:01:43][INFO ](LogisticRegressionMahout.java:147) - load training set: 320000/
+[2016-06-25 18:01:45][INFO ](LogisticRegressionMahout.java:147) - load training set: 321000/
+[2016-06-25 18:01:45][INFO ](LogisticRegressionMahout.java:147) - load training set: 322000/
+[2016-06-25 18:01:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 323000/
+[2016-06-25 18:01:46][INFO ](LogisticRegressionMahout.java:147) - load training set: 324000/
+[2016-06-25 18:01:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 325000/
+[2016-06-25 18:01:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 326000/
+[2016-06-25 18:01:57][INFO ](LogisticRegressionMahout.java:147) - load training set: 327000/
+[2016-06-25 18:01:58][INFO ](LogisticRegressionMahout.java:147) - load training set: 328000/
+[2016-06-25 18:01:58][INFO ](LogisticRegressionMahout.java:147) - load training set: 329000/
+[2016-06-25 18:01:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 330000/
+[2016-06-25 18:01:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 331000/
+[2016-06-25 18:01:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 332000/
+[2016-06-25 18:01:59][INFO ](LogisticRegressionMahout.java:147) - load training set: 333000/
+[2016-06-25 18:02:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 334000/
+[2016-06-25 18:02:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 335000/
+[2016-06-25 18:02:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 336000/
+[2016-06-25 18:02:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 337000/
+[2016-06-25 18:02:03][INFO ](LogisticRegressionMahout.java:147) - load training set: 338000/
+[2016-06-25 18:02:06][INFO ](LogisticRegressionMahout.java:147) - load training set: 339000/
+[2016-06-25 18:02:06][INFO ](LogisticRegressionMahout.java:147) - load training set: 340000/
+[2016-06-25 18:02:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 341000/
+[2016-06-25 18:02:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 342000/
+[2016-06-25 18:02:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 343000/
+[2016-06-25 18:02:09][INFO ](LogisticRegressionMahout.java:147) - load training set: 344000/
+[2016-06-25 18:02:09][INFO ](LogisticRegressionMahout.java:147) - load training set: 345000/
+[2016-06-25 18:02:09][INFO ](LogisticRegressionMahout.java:147) - load training set: 346000/
+[2016-06-25 18:02:11][INFO ](LogisticRegressionMahout.java:147) - load training set: 347000/
+[2016-06-25 18:02:11][INFO ](LogisticRegressionMahout.java:147) - load training set: 348000/
+[2016-06-25 18:02:12][INFO ](LogisticRegressionMahout.java:147) - load training set: 349000/
+[2016-06-25 18:02:12][INFO ](LogisticRegressionMahout.java:147) - load training set: 350000/
+[2016-06-25 18:02:12][INFO ](LogisticRegressionMahout.java:147) - load training set: 351000/
+[2016-06-25 18:02:12][INFO ](LogisticRegressionMahout.java:147) - load training set: 352000/
+[2016-06-25 18:02:12][INFO ](LogisticRegressionMahout.java:147) - load training set: 353000/
+[2016-06-25 18:02:16][INFO ](LogisticRegressionMahout.java:147) - load training set: 354000/
+[2016-06-25 18:02:17][INFO ](LogisticRegressionMahout.java:147) - load training set: 355000/
+[2016-06-25 18:02:18][INFO ](LogisticRegressionMahout.java:147) - load training set: 356000/
+[2016-06-25 18:02:19][INFO ](LogisticRegressionMahout.java:147) - load training set: 357000/
+[2016-06-25 18:02:19][INFO ](LogisticRegressionMahout.java:147) - load training set: 358000/
+[2016-06-25 18:02:19][INFO ](LogisticRegressionMahout.java:147) - load training set: 359000/
+[2016-06-25 18:02:20][INFO ](LogisticRegressionMahout.java:147) - load training set: 360000/
+[2016-06-25 18:02:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 361000/
+[2016-06-25 18:02:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 362000/
+[2016-06-25 18:02:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 363000/
+[2016-06-25 18:02:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 364000/
+[2016-06-25 18:02:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 365000/
+[2016-06-25 18:02:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 366000/
+[2016-06-25 18:02:25][INFO ](LogisticRegressionMahout.java:147) - load training set: 367000/
+[2016-06-25 18:02:25][INFO ](LogisticRegressionMahout.java:147) - load training set: 368000/
+[2016-06-25 18:02:26][INFO ](LogisticRegressionMahout.java:147) - load training set: 369000/
+[2016-06-25 18:02:26][INFO ](LogisticRegressionMahout.java:147) - load training set: 370000/
+[2016-06-25 18:02:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 371000/
+[2016-06-25 18:02:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 372000/
+[2016-06-25 18:02:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 373000/
+[2016-06-25 18:02:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 374000/
+[2016-06-25 18:02:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 375000/
+[2016-06-25 18:02:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 376000/
+[2016-06-25 18:02:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 377000/
+[2016-06-25 18:02:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 378000/
+[2016-06-25 18:02:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 379000/
+[2016-06-25 18:02:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 380000/
+[2016-06-25 18:02:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 381000/
+[2016-06-25 18:02:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 382000/
+[2016-06-25 18:04:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 383000/
+[2016-06-25 18:04:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 384000/
+[2016-06-25 18:04:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 385000/
+[2016-06-25 18:04:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 386000/
+[2016-06-25 18:04:32][INFO ](LogisticRegressionMahout.java:147) - load training set: 387000/
+[2016-06-25 18:04:33][INFO ](LogisticRegressionMahout.java:147) - load training set: 388000/
+[2016-06-25 18:04:34][INFO ](LogisticRegressionMahout.java:147) - load training set: 389000/
+[2016-06-25 18:04:34][INFO ](LogisticRegressionMahout.java:147) - load training set: 390000/
+[2016-06-25 18:04:34][INFO ](LogisticRegressionMahout.java:147) - load training set: 391000/
+[2016-06-25 18:04:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 392000/
+[2016-06-25 18:04:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 393000/
+[2016-06-25 18:04:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 394000/
+[2016-06-25 18:04:39][INFO ](LogisticRegressionMahout.java:147) - load training set: 395000/
+[2016-06-25 18:06:15][INFO ](LogisticRegressionMahout.java:147) - load training set: 396000/
+[2016-06-25 18:06:17][INFO ](LogisticRegressionMahout.java:147) - load training set: 397000/
+[2016-06-25 18:06:18][INFO ](LogisticRegressionMahout.java:147) - load training set: 398000/
+[2016-06-25 18:06:18][INFO ](LogisticRegressionMahout.java:147) - load training set: 399000/
+[2016-06-25 18:06:18][INFO ](LogisticRegressionMahout.java:147) - load training set: 400000/
+[2016-06-25 18:06:19][INFO ](LogisticRegressionMahout.java:147) - load training set: 401000/
+[2016-06-25 18:06:19][INFO ](LogisticRegressionMahout.java:147) - load training set: 402000/
+[2016-06-25 18:06:20][INFO ](LogisticRegressionMahout.java:147) - load training set: 403000/
+[2016-06-25 18:06:20][INFO ](LogisticRegressionMahout.java:147) - load training set: 404000/
+[2016-06-25 18:06:20][INFO ](LogisticRegressionMahout.java:147) - load training set: 405000/
+[2016-06-25 18:06:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 406000/
+[2016-06-25 18:06:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 407000/
+[2016-06-25 18:06:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 408000/
+[2016-06-25 18:06:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 409000/
+[2016-06-25 18:06:22][INFO ](LogisticRegressionMahout.java:147) - load training set: 410000/
+[2016-06-25 18:06:23][INFO ](LogisticRegressionMahout.java:147) - load training set: 411000/
+[2016-06-25 18:08:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 412000/
+[2016-06-25 18:08:21][INFO ](LogisticRegressionMahout.java:147) - load training set: 413000/
+[2016-06-25 18:08:27][INFO ](LogisticRegressionMahout.java:147) - load training set: 414000/
+[2016-06-25 18:08:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 415000/
+[2016-06-25 18:10:00][INFO ](LogisticRegressionMahout.java:147) - load training set: 416000/
+[2016-06-25 18:10:02][INFO ](LogisticRegressionMahout.java:147) - load training set: 417000/
+[2016-06-25 18:10:03][INFO ](LogisticRegressionMahout.java:147) - load training set: 418000/
+[2016-06-25 18:10:03][INFO ](LogisticRegressionMahout.java:147) - load training set: 419000/
+[2016-06-25 18:10:04][INFO ](LogisticRegressionMahout.java:147) - load training set: 420000/
+[2016-06-25 18:10:04][INFO ](LogisticRegressionMahout.java:147) - load training set: 421000/
+[2016-06-25 18:10:04][INFO ](LogisticRegressionMahout.java:147) - load training set: 422000/
+[2016-06-25 18:10:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 423000/
+[2016-06-25 18:10:05][INFO ](LogisticRegressionMahout.java:147) - load training set: 424000/
+[2016-06-25 18:10:06][INFO ](LogisticRegressionMahout.java:147) - load training set: 425000/
+[2016-06-25 18:11:33][INFO ](LogisticRegressionMahout.java:147) - load training set: 426000/
+[2016-06-25 18:11:35][INFO ](LogisticRegressionMahout.java:147) - load training set: 427000/
+[2016-06-25 18:11:35][INFO ](LogisticRegressionMahout.java:147) - load training set: 428000/
+[2016-06-25 18:11:36][INFO ](LogisticRegressionMahout.java:147) - load training set: 429000/
+[2016-06-25 18:11:36][INFO ](LogisticRegressionMahout.java:147) - load training set: 430000/
+[2016-06-25 18:13:06][INFO ](LogisticRegressionMahout.java:147) - load training set: 431000/
+[2016-06-25 18:13:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 432000/
+[2016-06-25 18:13:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 433000/
+[2016-06-25 18:13:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 434000/
+[2016-06-25 18:14:47][INFO ](LogisticRegressionMahout.java:147) - load training set: 435000/
+[2016-06-25 18:14:49][INFO ](LogisticRegressionMahout.java:147) - load training set: 436000/
+[2016-06-25 18:14:49][INFO ](LogisticRegressionMahout.java:147) - load training set: 437000/
+[2016-06-25 18:14:50][INFO ](LogisticRegressionMahout.java:147) - load training set: 438000/
+[2016-06-25 18:14:50][INFO ](LogisticRegressionMahout.java:147) - load training set: 439000/
+[2016-06-25 18:14:51][INFO ](LogisticRegressionMahout.java:147) - load training set: 440000/
+[2016-06-25 18:16:28][INFO ](LogisticRegressionMahout.java:147) - load training set: 441000/
+[2016-06-25 18:16:29][INFO ](LogisticRegressionMahout.java:147) - load training set: 442000/
+[2016-06-25 18:16:30][INFO ](LogisticRegressionMahout.java:147) - load training set: 443000/
+[2016-06-25 18:16:31][INFO ](LogisticRegressionMahout.java:147) - load training set: 444000/
+[2016-06-25 18:18:07][INFO ](LogisticRegressionMahout.java:147) - load training set: 445000/
+[2016-06-25 18:18:08][INFO ](LogisticRegressionMahout.java:147) - load training set: 446000/
+[2016-06-25 18:19:37][INFO ](LogisticRegressionMahout.java:147) - load training set: 447000/
+[2016-06-25 18:19:38][INFO ](LogisticRegressionMahout.java:147) - load training set: 448000/
+[2016-06-25 18:21:03][INFO ](LogisticRegressionMahout.java:147) - load training set: 449000/
+[2016-06-25 18:21:04][INFO ](LogisticRegressionMahout.java:147) - load training set: 450000/
+[2016-06-25 18:25:13][INFO ](LogisticRegressionMahout.java:147) - load training set: 451000/
+[2016-06-25 18:27:34][INFO ](LogisticRegressionMahout.java:147) - load training set: 452000/
+[2016-06-25 18:29:48][INFO ](LogisticRegressionMahout.java:147) - load training set: 453000/
+[2016-06-25 18:34:14][INFO ](LogisticRegressionMahout.java:147) - load training set: 454000/
+[2016-06-25 18:39:33][INFO ](LogisticRegressionMahout.java:147) - load training set: 455000/
+[2016-06-25 18:45:51][INFO ](LogisticRegressionMahout.java:147) - load training set: 456000/
+[2016-06-25 19:18:23][INFO ](PolarityDetectionTrainer.java:77) - NLP Loading ....
+[2016-06-25 19:18:24][INFO ](PolarityDetectionTrainer.java:79) - NLP Loading done
+[2016-06-25 19:18:24][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 0/
+[2016-06-25 19:18:24][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 1000/
+[2016-06-25 19:18:24][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 2000/
+[2016-06-25 19:18:25][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 3000/
+[2016-06-25 19:18:25][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 4000/
+[2016-06-25 19:18:25][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 5000/
+[2016-06-25 19:18:26][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 6000/
+[2016-06-25 19:18:26][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 7000/
+[2016-06-25 19:18:26][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 8000/
+[2016-06-25 19:18:26][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 9000/
+[2016-06-25 19:18:27][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 10000/
+[2016-06-25 19:18:27][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 11000/
+[2016-06-25 19:18:27][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 12000/
+[2016-06-25 19:18:27][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 13000/
+[2016-06-25 19:18:28][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 14000/
+[2016-06-25 19:18:28][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 15000/
+[2016-06-25 19:18:28][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 16000/
+[2016-06-25 19:18:28][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 17000/
+[2016-06-25 19:18:29][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 18000/
+[2016-06-25 19:18:29][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 19000/
+[2016-06-25 19:18:29][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 20000/
+[2016-06-25 19:18:29][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 21000/
+[2016-06-25 19:18:30][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 22000/
+[2016-06-25 19:18:30][INFO ](PolarityDetectionTrainer.java:92) - word2vec model loading: 23000/
+[2016-06-25 19:18:30][INFO ](PolarityDetectionTrainer.java:124) - load training set: 0
+[2016-06-25 19:18:31][INFO ](PolarityDetectionTrainer.java:124) - load training set: 1000
+[2016-06-25 19:18:31][INFO ](PolarityDetectionTrainer.java:124) - load training set: 2000
+[2016-06-25 19:18:31][INFO ](PolarityDetectionTrainer.java:124) - load training set: 3000
+[2016-06-25 19:18:31][INFO ](PolarityDetectionTrainer.java:124) - load training set: 4000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 5000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 6000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 7000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 8000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 9000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 10000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 11000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 12000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 13000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 14000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 15000
+[2016-06-25 19:18:32][INFO ](PolarityDetectionTrainer.java:124) - load training set: 16000
+[2016-06-25 19:18:33][INFO ](PolarityDetectionTrainer.java:124) - load training set: 17000
+[2016-06-25 19:18:33][INFO ](PolarityDetectionTrainer.java:124) - load training set: 18000
+[2016-06-25 19:18:33][INFO ](PolarityDetectionTrainer.java:124) - load training set: 19000
+[2016-06-25 19:18:33][INFO ](PolarityDetectionTrainer.java:124) - load training set: 20000
+[2016-06-25 19:18:33][INFO ](PolarityDetectionTrainer.java:124) - load training set: 21000
+[2016-06-25 19:18:33][INFO ](PolarityDetectionTrainer.java:124) - load training set: 22000
+[2016-06-25 19:18:33][INFO ](PolarityDetectionTrainer.java:124) - load training set: 23000
+[2016-06-25 19:18:34][INFO ](PolarityDetectionTrainer.java:124) - load training set: 24000
+[2016-06-25 19:18:34][INFO ](PolarityDetectionTrainer.java:124) - load training set: 25000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 26000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 27000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 28000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 29000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 30000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 31000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 32000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 33000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 34000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 35000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 36000
+[2016-06-25 19:18:35][INFO ](PolarityDetectionTrainer.java:124) - load training set: 37000
+[2016-06-25 19:18:36][INFO ](PolarityDetectionTrainer.java:124) - load training set: 38000
+[2016-06-25 19:18:36][INFO ](PolarityDetectionTrainer.java:124) - load training set: 39000
+[2016-06-25 19:18:36][INFO ](PolarityDetectionTrainer.java:124) - load training set: 40000
+[2016-06-25 19:18:37][INFO ](PolarityDetectionTrainer.java:124) - load training set: 41000
+[2016-06-25 19:18:39][INFO ](PolarityDetectionTrainer.java:124) - load training set: 42000
+[2016-06-25 19:18:39][INFO ](PolarityDetectionTrainer.java:124) - load training set: 43000
+[2016-06-25 19:18:39][INFO ](PolarityDetectionTrainer.java:124) - load training set: 44000
+[2016-06-25 19:18:39][INFO ](PolarityDetectionTrainer.java:124) - load training set: 45000
+[2016-06-25 19:18:39][INFO ](PolarityDetectionTrainer.java:124) - load training set: 46000
+[2016-06-25 19:18:39][INFO ](PolarityDetectionTrainer.java:124) - load training set: 47000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 48000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 49000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 50000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 51000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 52000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 53000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 54000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 55000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 56000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 57000
+[2016-06-25 19:18:40][INFO ](PolarityDetectionTrainer.java:124) - load training set: 58000
+[2016-06-25 19:18:41][INFO ](PolarityDetectionTrainer.java:124) - load training set: 59000
+[2016-06-25 19:18:41][INFO ](PolarityDetectionTrainer.java:124) - load training set: 60000
+[2016-06-25 19:18:41][INFO ](PolarityDetectionTrainer.java:124) - load training set: 61000
+[2016-06-25 19:18:41][INFO ](PolarityDetectionTrainer.java:124) - load training set: 62000
+[2016-06-25 19:18:41][INFO ](PolarityDetectionTrainer.java:124) - load training set: 63000
+[2016-06-25 19:18:41][INFO ](PolarityDetectionTrainer.java:124) - load training set: 64000
+[2016-06-25 19:18:41][INFO ](PolarityDetectionTrainer.java:124) - load training set: 65000
+[2016-06-25 19:18:42][INFO ](PolarityDetectionTrainer.java:124) - load training set: 66000
+[2016-06-25 19:18:42][INFO ](PolarityDetectionTrainer.java:124) - load training set: 67000
+[2016-06-25 19:18:42][INFO ](PolarityDetectionTrainer.java:124) - load training set: 68000
+[2016-06-25 19:18:42][INFO ](PolarityDetectionTrainer.java:124) - load training set: 69000
+[2016-06-25 19:18:42][INFO ](PolarityDetectionTrainer.java:124) - load training set: 70000
+[2016-06-25 19:18:42][INFO ](PolarityDetectionTrainer.java:124) - load training set: 71000
+[2016-06-25 19:18:42][INFO ](PolarityDetectionTrainer.java:124) - load training set: 72000
+[2016-06-25 19:18:43][INFO ](PolarityDetectionTrainer.java:124) - load training set: 73000
+[2016-06-25 19:18:43][INFO ](PolarityDetectionTrainer.java:124) - load training set: 74000
+[2016-06-25 19:18:43][INFO ](PolarityDetectionTrainer.java:124) - load training set: 75000
+[2016-06-25 19:18:43][INFO ](PolarityDetectionTrainer.java:124) - load training set: 76000
+[2016-06-25 19:18:43][INFO ](PolarityDetectionTrainer.java:124) - load training set: 77000
+[2016-06-25 19:18:43][INFO ](PolarityDetectionTrainer.java:124) - load training set: 78000
+[2016-06-25 19:18:44][INFO ](PolarityDetectionTrainer.java:124) - load training set: 79000
+[2016-06-25 19:18:44][INFO ](PolarityDetectionTrainer.java:124) - load training set: 80000
+[2016-06-25 19:18:44][INFO ](PolarityDetectionTrainer.java:124) - load training set: 81000
+[2016-06-25 19:18:44][INFO ](PolarityDetectionTrainer.java:124) - load training set: 82000
+[2016-06-25 22:37:07][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 22:37:08][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 22:37:09][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 22:37:09][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 22:37:09][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 22:37:10][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 22:37:10][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 22:37:11][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 22:37:11][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 22:37:11][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 22:37:12][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 22:37:12][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 22:37:12][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 22:37:13][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 22:37:13][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 22:37:13][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 22:37:14][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 22:37:14][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 22:37:14][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 22:37:15][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 19000
+[2016-06-25 22:37:15][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 20000
+[2016-06-25 22:37:16][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 21000
+[2016-06-25 22:37:16][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 22000
+[2016-06-25 22:37:16][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 23000
+[2016-06-25 22:37:16][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 22:37:16][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 22:37:16][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 22:40:25][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 22:40:26][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 22:40:27][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 22:40:28][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 22:40:29][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 22:40:30][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 22:40:31][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 22:40:32][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 22:40:33][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 22:40:33][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 22:40:34][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 22:40:35][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 22:40:36][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 22:40:37][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 22:40:37][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 22:40:38][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 22:40:39][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 22:40:40][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 22:40:40][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 22:40:41][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 22:40:41][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 22:40:41][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 22:41:34][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 22:41:35][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 22:41:36][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 22:41:37][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 22:41:38][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 22:41:39][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 22:41:39][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 22:41:40][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 22:41:41][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 22:41:42][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 22:41:42][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 22:41:43][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 22:41:44][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 22:41:45][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 22:41:46][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 22:41:47][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 22:41:47][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 22:41:48][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 22:41:49][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 22:41:49][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 22:41:49][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 22:41:49][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 22:46:42][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 22:46:43][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 22:46:44][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 22:46:45][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 22:46:46][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 22:46:47][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 22:46:48][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 22:46:49][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 22:46:50][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 22:46:51][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 22:46:52][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 22:46:53][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 22:46:53][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 22:46:54][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 22:46:55][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 22:46:56][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 22:46:57][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 22:46:58][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 22:46:59][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 22:46:59][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 22:46:59][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 22:46:59][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 22:48:48][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 22:48:49][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 22:48:50][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 22:48:51][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 22:48:52][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 22:48:53][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 22:48:54][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 22:48:54][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 22:48:55][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 22:48:56][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 22:48:57][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 22:48:58][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 22:48:59][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 22:49:00][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 22:49:01][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 22:49:02][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 22:49:03][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 22:49:03][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 22:49:04][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 22:49:04][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 22:49:05][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 22:49:05][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 22:51:14][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 22:52:06][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 22:52:07][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 22:52:08][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 22:52:09][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 22:52:10][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 22:52:11][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 22:52:12][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 22:52:13][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 22:52:14][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 22:52:15][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 22:52:16][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 22:52:17][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 22:52:18][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 22:52:19][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 22:52:19][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 22:52:20][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 22:52:21][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 22:52:22][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 22:52:42][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 22:52:42][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 22:53:04][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 22:57:38][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 22:57:40][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 22:57:40][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 22:57:41][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 22:57:42][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 22:57:43][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 22:57:44][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 22:57:44][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 22:57:45][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 22:57:46][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 22:57:47][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 22:57:47][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 22:57:48][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 22:57:49][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 22:57:50][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 22:57:50][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 22:57:51][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 22:57:52][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 22:57:53][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 22:57:53][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 22:57:53][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 22:57:53][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 23:02:36][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 23:02:37][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 23:02:38][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 23:02:39][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 23:02:40][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 23:02:40][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 23:02:41][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 23:02:42][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 23:02:43][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 23:02:43][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 23:02:44][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 23:02:45][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 23:02:46][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 23:02:46][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 23:02:47][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 23:02:48][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 23:02:49][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 23:02:49][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 23:02:50][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 23:02:50][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 23:02:50][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 23:02:50][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 23:03:08][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 23:03:09][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 23:03:10][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 23:03:11][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 23:03:12][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 23:03:13][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 23:03:14][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 23:03:15][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 23:03:16][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 23:03:17][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 23:03:18][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 23:03:19][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 23:03:20][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 23:03:21][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 23:03:21][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 23:03:22][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 23:03:23][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 23:03:24][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 23:03:25][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 23:03:25][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 23:03:25][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 23:03:25][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 23:05:15][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 23:05:16][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 23:05:17][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 23:05:18][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 23:05:19][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 23:05:19][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 23:05:20][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 23:05:21][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 23:05:22][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 23:05:23][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 23:05:24][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 23:05:25][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 23:05:26][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 23:05:27][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 23:05:27][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 23:05:28][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 23:05:29][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 23:05:30][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 23:05:31][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 23:05:31][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 23:05:31][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 23:05:31][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 23:06:44][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 23:06:45][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 23:06:46][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 23:06:47][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 23:06:48][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 23:06:49][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 23:06:49][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 23:06:50][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 23:06:51][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 23:06:52][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 23:06:53][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 23:06:54][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 23:06:55][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 23:06:55][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 23:06:56][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 23:06:57][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 23:06:58][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 23:06:59][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 23:07:00][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 23:07:00][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 23:07:00][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 23:07:00][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 23:07:17][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 23:07:18][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 23:07:19][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 23:07:20][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 23:07:21][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 23:07:22][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 23:07:23][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 23:07:24][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 23:07:24][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 23:07:25][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 23:07:26][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 23:07:27][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 23:07:28][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 23:07:28][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 23:07:29][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 23:07:30][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 23:07:31][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 23:07:32][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 23:07:33][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 23:07:33][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 23:07:33][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 23:07:33][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 23:08:14][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 23:08:15][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 23:08:16][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 23:08:17][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 23:08:18][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 23:08:19][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 23:08:20][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 23:08:21][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 23:08:21][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 23:08:22][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 23:08:23][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 23:08:24][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 23:08:25][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 23:08:26][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 23:08:27][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 23:08:27][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 23:08:28][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 23:08:58][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 23:09:00][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 23:09:01][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 23:09:02][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 23:09:02][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 23:09:03][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 23:09:04][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 23:09:05][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 23:09:06][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 23:09:07][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 23:09:08][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 23:09:09][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 23:09:10][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 23:09:24][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 23:09:25][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 23:09:26][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 23:09:27][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 23:09:28][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 23:09:29][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 23:09:30][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 23:09:30][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 23:09:31][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 23:09:32][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 23:09:32][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 23:09:33][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 23:09:34][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 23:09:35][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 23:09:35][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 23:09:36][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 23:09:37][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 23:09:38][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 23:09:38][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 23:09:39][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 23:09:39][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 23:09:39][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 23:09:40][INFO ](PolarityDetectionTester.java:86) - Testing: 1000
+[2016-06-25 23:27:56][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 0
+[2016-06-25 23:27:59][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 1000
+[2016-06-25 23:28:03][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 2000
+[2016-06-25 23:28:06][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 3000
+[2016-06-25 23:28:10][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 4000
+[2016-06-25 23:28:12][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 5000
+[2016-06-25 23:28:16][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 6000
+[2016-06-25 23:28:20][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 7000
+[2016-06-25 23:28:23][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 8000
+[2016-06-25 23:28:26][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 9000
+[2016-06-25 23:28:29][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 10000
+[2016-06-25 23:28:31][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 11000
+[2016-06-25 23:28:34][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 12000
+[2016-06-25 23:28:37][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 13000
+[2016-06-25 23:28:40][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 14000
+[2016-06-25 23:28:42][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 15000
+[2016-06-25 23:28:45][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 16000
+[2016-06-25 23:28:47][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 17000
+[2016-06-25 23:28:50][INFO ](PolarityDetectionTester.java:51) - Word2Vec Model loading: 18000
+[2016-06-25 23:28:50][INFO ](PolarityDetectionTester.java:77) - Regression Model Loading ....
+[2016-06-25 23:28:50][INFO ](PolarityDetectionTester.java:79) - Regression Model Loading done
+[2016-06-25 23:28:50][INFO ](PolarityDetectionTester.java:86) - Testing: 0
+[2016-06-25 23:28:56][INFO ](PolarityDetectionTester.java:86) - Testing: 1000
